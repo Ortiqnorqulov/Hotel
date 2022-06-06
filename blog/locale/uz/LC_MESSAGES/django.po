@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-21 21:11+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: blog/templates/blog_detail.html:28 blog/templates/blog_detail.html:106
+#: blog/templates/news.html:26 blog/templates/news.html:134
+msgid "SPA-CENTER"
+msgstr ""
+
+#: blog/templates/blog_detail.html:29 blog/templates/blog_detail.html:107
+#: blog/templates/news.html:27 blog/templates/news.html:135
+msgid "BUSINESS CENTER"
+msgstr ""
+
+#: blog/templates/blog_detail.html:30 blog/templates/blog_detail.html:108
+#: blog/templates/news.html:28 blog/templates/news.html:136
+msgid "GASTROBAR"
+msgstr ""
+
+#: blog/templates/blog_detail.html:43 blog/templates/blog_detail.html:109
+#: blog/templates/news.html:40 blog/templates/news.html:137
+msgid "ABOUTUS"
+msgstr ""
+
+#: blog/templates/blog_detail.html:44 blog/templates/blog_detail.html:110
+#: blog/templates/news.html:41 blog/templates/news.html:138
+msgid "GALLERY"
+msgstr ""
+
+#: blog/templates/blog_detail.html:45 blog/templates/blog_detail.html:111
+#: blog/templates/news.html:42 blog/templates/news.html:139
+msgid "NEWS"
+msgstr ""
+
+#: blog/templates/blog_detail.html:46 blog/templates/news.html:43
+msgid "FAQ"
+msgstr ""
+
+#: blog/templates/blog_detail.html:47 blog/templates/blog_detail.html:112
+#: blog/templates/news.html:44 blog/templates/news.html:140
+msgid "CONTACT"
+msgstr ""
+
+#: blog/templates/news.html:81
+#, fuzzy
+#| msgid "Read more"
+msgid "Read more..."
+msgstr "Ko'proq"
+
+#: blog/templates/news.html:100
+msgid "Contact"
+msgstr "Aloqa"
+
+#: blog/templates/news.html:101
+msgid "Contact us in a convenient way for you:"
+msgstr ""
+
+#: blog/templates/news.html:103
+msgid "Phone"
+msgstr "Telefo'n"
+
+#~ msgid "Home"
+#~ msgstr "Asosiy"
+
+#~ msgid "Rooms"
+#~ msgstr "Katego'ryalar"
+
+#~ msgid "Restaurant"
+#~ msgstr "Restaran"
+
+#~ msgid "Services"
+#~ msgstr "Xizmatlarimiz"
+
+#~ msgid "Aboutus"
+#~ msgstr "Biz Haqimzda"
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Visit Page"
+#~ msgstr "tashrif buyuring"
+
+#~ msgid "In-house Restaurant"
+#~ msgstr "restoran"
+
+#~ msgid "Our Services"
+#~ msgstr "Xizmatlarimiz"
+
+#~ msgid "Pages"
+#~ msgstr "Sahifalar"
+
+#~ msgid "the Other Pages"
+#~ msgstr "Boshqa Sahifalar"
+
+#~ msgid "Restourant"
+#~ msgstr "Restaran"
+
+#~ msgid "Get in Touch"
+#~ msgstr "Aloqa"
+
+#~ msgid "Our Latest News"
+#~ msgstr "Bizning so'nggi yangiliklar"
+
+#~ msgid "Author"
+#~ msgstr "Muallif"
+
+#~ msgid "Most Popular"
+#~ msgstr "Eng mashhur"
+
+#~ msgid "Categories"
+#~ msgstr "Katego'ryalar"
+
+#~ msgid "Address"
+#~ msgstr "Manzil"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Related Posts"
+#~ msgstr "Tegishli xabarlar"
+
+#~ msgid "Comment"
+#~ msgstr "Izohlar"
+
+#~ msgid "Add Your Comment"
+#~ msgstr "Fikringizni qo'shing"
+
+#~ msgid "Name"
+#~ msgstr "Ism"
+
+#~ msgid "Surname"
+#~ msgstr "Familya"
+
+#~ msgid "Submit"
+#~ msgstr "Tasdiqlash"

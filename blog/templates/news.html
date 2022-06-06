@@ -1,0 +1,164 @@
+﻿{% load static %}
+{% load i18n %}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Central palace</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="{% static 'assetss/libs/bootstrap-grid/bootstrap-grid.min.css'%}">
+<link rel="stylesheet" href="{% static 'assetss/libs/owl_carousel/owl.carousel.min.css'%}">
+<link rel="stylesheet" href="{% static 'assetss/libs/owl_carousel/owl.theme.default.min.css'%}">
+<link rel="stylesheet" href="{% static 'assetss/styles/navfooter.css'%}">
+<link rel="stylesheet" href="{% static 'assetss/styles/aboutus.css'%}">
+</head>
+<body>
+
+	        <header>
+
+				<nav class="navigation">
+					<div class="block col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12">
+							<div class="links">
+									<ul>
+                                       {% for rs in category %}
+                                        <li> <a href="{% url 'category_room' rs.id rs.slug %}">{{ rs.title }}</a></li>
+                                        {% endfor %}
+                                        <li> <a href="{% url 'services' %}">{% trans 'SPA-CENTER'%}</a></li>
+                                        <li> <a href="{% url 'bussines_detail'%}">{% trans 'BUSINESS CENTER'%}</a></li>
+                                        <li> <a href="{% url 'restourant_detail'%}">{% trans 'GASTROBAR'%}</a></li>
+									</ul>
+							</div>
+					</div>
+					        <div class="logo col-xl-2 col-lg-2 col-md-4 col-sm-6 col-6">
+							        <a href="{% url 'home'%}">
+
+										<img id="logo_image" src="{% static 'assetss/rasim.png'%}" alt="logo"></a>
+					        </div>
+					<div class="block col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12">
+							<div class="links">
+									<ul>
+											<li> <a href="{% url 'aboutus' %}">{% trans 'ABOUTUS'%}</a></li>
+											<li> <a href="{% url 'gallery'%}">{% trans 'GALLERY'%}</a></li>
+											<li> <a href="{% url 'blog' %}">{% trans 'NEWS'%}</a></li>
+                                            <li> <a href="{% url 'faq' %}">{% trans 'FAQ'%}</a></li>
+											<li> <a href="{% url 'contactus'%}">{% trans 'CONTACT'%}</a></li>
+									</ul>
+							</div>
+							        <div class="lang">
+                                        <form class="form-inline" action="{% url 'selectlanguage' %}" method="post">
+                                            {% csrf_token %}
+                                              <input name="next" type="hidden" value="{{ redirect_to }}">
+                                                <select name="language" onchange="submit()" style="border: none; width: 120px; height: 25px;">
+                                                    {% get_current_language as LANGUAGE_CODE %}
+                                                    {% get_available_languages as LANGUAGES %}
+                                                    {% get_language_info_list for LANGUAGES as languages %}
+                                                    {% for language in languages %}
+                                                        <option value="{{ language.code }}"{% if language.code == LANGUAGE_CODE %} selected{% endif %}>
+                                                            {{ language.name_local }} ({{ language.code }})
+                                                        </option>
+                                                    {% endfor %}
+                                                </select>
+                                                <noscript>
+                                                    <input type="submit" value="Set" />
+                                                </noscript>
+                                         </form>
+							        </div>
+					</div>
+					<div class="mobile-btns col-md-2 col-sm-4 col-4">
+							<div class="mobile-button"></div>
+					</div>
+			        </nav>
+	        </header>
+                <div id='dle-content'>
+                    <div class="text">
+                        <main>
+                            <section class="services container-fluid">
+                                {% for rs in blog %}
+                                <div class="item">
+                                    <div class="desc col-xl-5 col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <h2>{{ rs.title }}</h2>
+                                        <p>{{ rs.description | safe |slice:":200" }}</p>
+                                        <a class="" href="{% url 'blog_detail' rs.id %}"><button style="background-color: #ffdb58;" class="btn-default">{% trans 'Read more...'%}</button></a>
+                                    </div>
+                                    <div class="img col-xl-7 col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <img src="{{ rs.image.url }}" alt="{{ rs.title }}" class="fr-fic fr-dii">
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            </section>
+                        {% include 'pagination.html' with page=blog %}
+                        </main>
+                </div>
+
+<section class="contacts container-fluid">
+    <div class="map col-xl-7 col-lg-5 col-md-12">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2997.207181269331!2d69.26723237431943!3d41.30435629700404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8bfa1cc3dcb5%3A0x2446592def2a833c!2sCentral%20Palace%20Hotel!5e0!3m2!1sen!2s!4v1634318259618!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+
+          {% for rs in info %}
+    <div class="desc col-xl-5 col-lg-7 col-md-12">
+        <h2>{% trans 'Contact'%}</h2>
+        <p>{% trans 'Contact us in a convenient way for you:'%}</p>
+        <span class="line"></span>
+        <a href="{{ rs.phone }}"><span>{% trans 'Phone'%}: </span>{{ rs.phone }}</a>
+            <a href="{{ rs.instagram }}"><span>Instagram:</span><span class="__cf_email__">CENTRAL PALACE HOTEL</span> </a>
+        <a href="{{ rs.telegram }}"><span>Telegram:</span><span class="__cf_email__">CENTRAL PALACE HOTEL</span></a>
+        <a href="#"><span>Email:</span><span class="__cf_email__">{{ rs.email }}</span></a>
+    </div>
+        {% endfor %}
+</section>
+
+{#<section class="leaveapp container-fluid">#}
+{#    <h2>Оставить заявку</h2>#}
+{#    <p>Если у вас возникли вопросы, заполните поля ниже и наш менеджер перезвонит вам в ближайшее время</p>#}
+{#    <form action="/?do=tg" method="POST">#}
+{#        <input type="hidden" name="user_type" value="Обычная заявка">#}
+{#        <input type="text" name="user_name" placeholder="Имя" required="">#}
+{#        <input type="tel" name="user_phone" placeholder="Номер телефона" required="" class="phonenumber">#}
+{#        <input type="email" name="user_email" placeholder="E - mail">#}
+{#        <button type="submit" class="btn-default">Отправить</button>#}
+{#    </form>#}
+{#</section>#}
+
+</div>
+    <footer>
+	    <div class="content container-fluid">
+	        <div class="logo col-xl-2 col-lg-3">
+	            <a href="{% url 'home'%}">
+	                <img src="{% static 'assetss/rasim.png'%}" alt="logo">
+	            </a>
+	        </div>
+
+	        <div class="links col-xl-8 col-lg-6 col-md-9 col-sm-8 col-12">
+	            <ul>
+                    <li> <a href="{% url 'services'%}">{% trans 'SPA-CENTER'%}</a></li>
+                    <li> <a href="{% url 'bussines_detail'%}">{% trans 'BUSINESS CENTER'%}</a></li>
+                    <li> <a href="{% url 'restourant_detail'%}">{% trans 'GASTROBAR'%}</a></li>
+                    <li> <a href="{% url 'aboutus'%}">{% trans 'ABOUTUS'%}</a></li>
+                    <li> <a href="{% url 'gallery'%}">{% trans 'GALLERY'%}</a></li>
+                    <li> <a href="{% url 'blog'%}">{% trans 'NEWS'%}</a></li>
+                    <li> <a href="{% url 'contactus' %}">{% trans 'CONTACT'%}</a></li>
+	            </ul>
+	        </div>
+
+	        {% for rs in info %}
+	        <div class="socials col-xl-2 col-lg-3 col-md-3 col-sm-4 col-12">
+	            <a href="{{ rs.telegram }}">
+	                <img src="{% static 'assetss/icons/social-telegram.svg'%}" alt="telegram">
+	            </a>
+	            <a href="{{ rs.instagram }}">
+	                <img src="{% static 'assetss/icons/social-instagram.svg'%}" alt="instagram">
+	            </a>
+	        </div>
+            {% endfor %}
+	    </div>
+        <div class="line"></div>
+    </footer>
+    <script src="{% static 'assetss/libs/jquery/jquery-3.5.1.min.js'%}"></script>
+	<script src="{% static 'assetss/libs/jquery_mask/jquery.mask.min.js'%}"></script>
+	<script src="{% static 'assetss/libs/owl_carousel/owl.carousel.min.js'%}"></script>
+	<script src="{% static 'assetss/scripts/main.js'%}"></script>
+</body>
+</html>
+
+

@@ -1,0 +1,348 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-21 21:11+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: home/templates/aboutus.html:26 home/templates/aboutus.html:150
+#: home/templates/aboutus_detail.html:28 home/templates/aboutus_detail.html:105
+#: home/templates/bussiness_detail.html:26
+#: home/templates/bussiness_detail.html:115
+#: home/templates/category_room.html:29 home/templates/category_room.html:139
+#: home/templates/contact.html:48 home/templates/contact.html:169
+#: home/templates/faq.html:29 home/templates/faq.html:127
+#: home/templates/gallery.html:28 home/templates/gallery.html:144
+#: home/templates/index.html:27 home/templates/index.html:282
+#: home/templates/restourant_detail.html:26
+#: home/templates/restourant_detail.html:114 home/templates/room_detail.html:27
+#: home/templates/room_detail.html:311 home/templates/services.html:26
+#: home/templates/services.html:116 home/templates/special.html:26
+#: home/templates/special.html:106
+msgid "SPA-CENTER"
+msgstr "SPA-CENTER"
+
+#: home/templates/aboutus.html:27 home/templates/aboutus.html:151
+#: home/templates/aboutus_detail.html:29 home/templates/aboutus_detail.html:106
+#: home/templates/bussiness_detail.html:27
+#: home/templates/bussiness_detail.html:116
+#: home/templates/category_room.html:30 home/templates/category_room.html:140
+#: home/templates/contact.html:49 home/templates/contact.html:170
+#: home/templates/faq.html:30 home/templates/faq.html:128
+#: home/templates/gallery.html:29 home/templates/gallery.html:145
+#: home/templates/index.html:28 home/templates/index.html:283
+#: home/templates/restourant_detail.html:27
+#: home/templates/restourant_detail.html:115 home/templates/room_detail.html:28
+#: home/templates/room_detail.html:312 home/templates/services.html:27
+#: home/templates/services.html:117 home/templates/special.html:27
+#: home/templates/special.html:107
+msgid "BUSINESS CENTER"
+msgstr "BUSINESS CENTER"
+
+#: home/templates/aboutus.html:28 home/templates/aboutus.html:152
+#: home/templates/aboutus_detail.html:30 home/templates/aboutus_detail.html:107
+#: home/templates/bussiness_detail.html:28
+#: home/templates/bussiness_detail.html:117
+#: home/templates/category_room.html:31 home/templates/category_room.html:141
+#: home/templates/contact.html:50 home/templates/contact.html:171
+#: home/templates/faq.html:31 home/templates/faq.html:129
+#: home/templates/gallery.html:30 home/templates/gallery.html:146
+#: home/templates/index.html:29 home/templates/index.html:284
+#: home/templates/restourant_detail.html:28
+#: home/templates/restourant_detail.html:116 home/templates/room_detail.html:29
+#: home/templates/room_detail.html:313 home/templates/services.html:28
+#: home/templates/services.html:118 home/templates/special.html:28
+#: home/templates/special.html:108
+msgid "GASTROBAR"
+msgstr "GASTROBAR"
+
+#: home/templates/aboutus.html:40 home/templates/aboutus.html:153
+#: home/templates/aboutus_detail.html:43 home/templates/aboutus_detail.html:108
+#: home/templates/bussiness_detail.html:41
+#: home/templates/bussiness_detail.html:118
+#: home/templates/category_room.html:44 home/templates/category_room.html:142
+#: home/templates/contact.html:63 home/templates/contact.html:172
+#: home/templates/faq.html:44 home/templates/faq.html:130
+#: home/templates/gallery.html:43 home/templates/gallery.html:147
+#: home/templates/index.html:42 home/templates/index.html:285
+#: home/templates/restourant_detail.html:40
+#: home/templates/restourant_detail.html:117 home/templates/room_detail.html:42
+#: home/templates/room_detail.html:314 home/templates/services.html:41
+#: home/templates/services.html:119 home/templates/special.html:41
+#: home/templates/special.html:109
+msgid "ABOUTUS"
+msgstr "HAQIMZDA"
+
+#: home/templates/aboutus.html:41 home/templates/aboutus.html:154
+#: home/templates/aboutus_detail.html:44 home/templates/aboutus_detail.html:109
+#: home/templates/bussiness_detail.html:42
+#: home/templates/bussiness_detail.html:119
+#: home/templates/category_room.html:45 home/templates/category_room.html:143
+#: home/templates/contact.html:64 home/templates/contact.html:173
+#: home/templates/faq.html:45 home/templates/faq.html:131
+#: home/templates/gallery.html:44 home/templates/gallery.html:148
+#: home/templates/index.html:43 home/templates/index.html:286
+#: home/templates/restourant_detail.html:41
+#: home/templates/restourant_detail.html:118 home/templates/room_detail.html:43
+#: home/templates/room_detail.html:315 home/templates/services.html:42
+#: home/templates/services.html:120 home/templates/special.html:42
+#: home/templates/special.html:110
+msgid "GALLERY"
+msgstr "GALEREYA"
+
+#: home/templates/aboutus.html:42 home/templates/aboutus.html:155
+#: home/templates/aboutus_detail.html:45 home/templates/aboutus_detail.html:110
+#: home/templates/bussiness_detail.html:43
+#: home/templates/bussiness_detail.html:120
+#: home/templates/category_room.html:46 home/templates/category_room.html:144
+#: home/templates/contact.html:65 home/templates/contact.html:174
+#: home/templates/faq.html:46 home/templates/faq.html:132
+#: home/templates/gallery.html:45 home/templates/gallery.html:149
+#: home/templates/index.html:44 home/templates/index.html:287
+#: home/templates/restourant_detail.html:42
+#: home/templates/restourant_detail.html:119 home/templates/room_detail.html:44
+#: home/templates/room_detail.html:316 home/templates/services.html:43
+#: home/templates/services.html:121 home/templates/special.html:43
+#: home/templates/special.html:111
+msgid "NEWS"
+msgstr "YANGILIKLAR"
+
+#: home/templates/aboutus.html:43 home/templates/aboutus_detail.html:46
+#: home/templates/bussiness_detail.html:44 home/templates/category_room.html:47
+#: home/templates/contact.html:66 home/templates/faq.html:47
+#: home/templates/gallery.html:46 home/templates/index.html:45
+#: home/templates/restourant_detail.html:43 home/templates/room_detail.html:45
+#: home/templates/services.html:44 home/templates/special.html:44
+msgid "FAQ"
+msgstr "KBS"
+
+#: home/templates/aboutus.html:44 home/templates/aboutus.html:156
+#: home/templates/aboutus_detail.html:47 home/templates/aboutus_detail.html:111
+#: home/templates/bussiness_detail.html:45
+#: home/templates/bussiness_detail.html:121
+#: home/templates/category_room.html:48 home/templates/category_room.html:145
+#: home/templates/contact.html:67 home/templates/contact.html:175
+#: home/templates/faq.html:48 home/templates/faq.html:133
+#: home/templates/gallery.html:47 home/templates/gallery.html:150
+#: home/templates/index.html:46 home/templates/index.html:288
+#: home/templates/restourant_detail.html:44
+#: home/templates/restourant_detail.html:120 home/templates/room_detail.html:46
+#: home/templates/room_detail.html:317 home/templates/services.html:45
+#: home/templates/services.html:122 home/templates/special.html:45
+#: home/templates/special.html:112
+msgid "CONTACT"
+msgstr "ALOQA"
+
+#: home/templates/aboutus.html:77
+msgid "Elegant hotel for business people"
+msgstr "Ishbilarmonlar uchun mehmonxona"
+
+#: home/templates/aboutus.html:78
+msgid "Focus on the essentials, letting us take care of your comfort!"
+msgstr ""
+"Sizning qulayligingiz haqida g'amxo'rlik qilishga ruxsat berib, asosiy "
+"narsalarga e'tibor qarating!"
+
+#: home/templates/aboutus.html:79
+msgid "HOTEL PRESENTATION"
+msgstr "MEHMONHONA PREZINTATSIYASI"
+
+#: home/templates/aboutus.html:85
+msgid "Elegant rooms"
+msgstr "Chiroyli xonalar"
+
+#: home/templates/aboutus.html:88
+msgid ""
+"Central palace Hotel offers 32 elegant rooms for business and leisure "
+"travel. Each room is equipped with free Wi-Fi, a modern electronic lock "
+"system, non-alcoholic minibar, safe, satellite TV, tea and coffee making "
+"facilities, personal hygiene products."
+msgstr ""
+"Mehmonxona ish va dam olish uchun 32 nafis xonalarni taklif etadi. Har bir "
+"xonada bepul Wi-Fi, zamonaviy elektron qulf tizimi, alkogolsiz minibar, "
+"seyf, yo'ldoshli televidenie, choy va qahva tayyorlash vositalari, shaxsiy "
+"gigiena vositalari mavjud."
+
+#: home/templates/aboutus.html:89
+msgid ""
+"The favorable location of the hotel allows guests to get to the Islam "
+"Karimov International Airport, the North and South railway stations, the "
+"city center within 10-15 minutes."
+msgstr ""
+"Mehmonxonaning qulay joylashuvi mehmonlarga Islom Karimov nomidagi xalqaro "
+"aeroport, Shimoliy va Janubiy temir yo'l vokzallari, shahar markaziga 10-15 "
+"daqiqada etib borish imkonini beradi."
+
+#: home/templates/aboutus.html:98 home/templates/index.html:173
+#: home/templates/index.html:232
+msgid "Read more..."
+msgstr "Ko'proq..."
+
+#: home/templates/aboutus.html:116 home/templates/bussiness_detail.html:94
+#: home/templates/category_room.html:112 home/templates/faq.html:100
+#: home/templates/gallery.html:117 home/templates/index.html:246
+#: home/templates/restourant_detail.html:94 home/templates/room_detail.html:284
+#: home/templates/services.html:95
+msgid "Contact"
+msgstr "Aloqa"
+
+#: home/templates/aboutus.html:117 home/templates/bussiness_detail.html:95
+#: home/templates/category_room.html:113 home/templates/faq.html:101
+#: home/templates/gallery.html:118 home/templates/index.html:247
+#: home/templates/restourant_detail.html:95 home/templates/room_detail.html:285
+#: home/templates/services.html:96
+msgid "Contact us in a convenient way for you:"
+msgstr "Siz uchun qulay usulda biz bilan bog'laning:"
+
+#: home/templates/aboutus.html:119 home/templates/bussiness_detail.html:97
+#: home/templates/category_room.html:115 home/templates/contact.html:127
+#: home/templates/faq.html:103 home/templates/gallery.html:120
+#: home/templates/index.html:249 home/templates/restourant_detail.html:97
+#: home/templates/room_detail.html:132 home/templates/room_detail.html:287
+#: home/templates/services.html:98
+msgid "Phone"
+msgstr "Telefo'n"
+
+#: home/templates/contact.html:115
+msgid "Full Name"
+msgstr "To'liq ismi"
+
+#: home/templates/contact.html:121 home/templates/room_detail.html:153
+msgid "Email"
+msgstr "Email"
+
+#: home/templates/contact.html:134
+msgid "Subject"
+msgstr "Mavzu"
+
+#: home/templates/contact.html:140
+msgid "Message"
+msgstr "Xabar"
+
+#: home/templates/contact.html:148
+msgid "Submit"
+msgstr "Tasdiqlash"
+
+#: home/templates/index.html:144
+msgid "Hotel Central place"
+msgstr "Mehmonxona Central palace"
+
+#: home/templates/index.html:145
+msgid "Elegant rooms of various categories of comfort"
+msgstr "Har xil toifadagi qulaylikdagi xonalar"
+
+#: home/templates/index.html:148
+msgid ""
+"Central Place The hotel offers 32 elegant rooms for business and leisure "
+"travel. Each room is equipped with free Wi-Fi, a modern electronic lock "
+"system, non-alcoholic minibar, safe, satellite TV, tea and coffee making "
+"facilities, personal hygiene products."
+msgstr ""
+"Mehmonxona ish va dam olish uchun 32 nafis xonalarni taklif etadi. Har bir "
+"xonada bepul Wi-Fi, zamonaviy elektron qulf tizimi, alkogolsiz minibar, "
+"seyf, yo'ldoshli televidenie, choy va qahva tayyorlash vositalari, shaxsiy "
+"gigiena vositalari mavjud."
+
+#: home/templates/index.html:219
+msgid "Special offers"
+msgstr "Maxsus takliflar"
+
+#: home/templates/index.html:220
+msgid ""
+"For our clients, we offer conditions that will not leave you indifferent"
+msgstr ""
+"Mijozlarimiz uchun biz sizni befarq qoldirmaydigan  takliflar taqdim etamiz"
+
+#: home/templates/index.html:289
+msgid "REGISTRATIONS"
+msgstr ""
+
+#: home/templates/room_detail.html:82 home/templates/room_detail.html:209
+msgid "Single room"
+msgstr "Bir kishilik xona"
+
+#: home/templates/room_detail.html:83 home/templates/room_detail.html:210
+msgid "Double room"
+msgstr "Ikki kishilik xona"
+
+#: home/templates/room_detail.html:93 home/templates/room_detail.html:103
+msgid "Submit your application"
+msgstr "Arizangizni qoldiring"
+
+#: home/templates/room_detail.html:118
+msgid "Name"
+msgstr "Ismi"
+
+#: home/templates/room_detail.html:125
+msgid "Surname"
+msgstr "Familyasi"
+
+#: home/templates/room_detail.html:139
+msgid "Citizenship"
+msgstr "Fuqoroligi"
+
+#: home/templates/room_detail.html:146
+msgid "Payment"
+msgstr "To'lo'v uslubi"
+
+#: home/templates/room_detail.html:161
+msgid "Guest"
+msgstr "Mehmonlar"
+
+#: home/templates/room_detail.html:174
+msgid "Arrival"
+msgstr "Kelish kuni"
+
+#: home/templates/room_detail.html:181
+msgid "Departure"
+msgstr "Ketish kuni"
+
+#: home/templates/room_detail.html:188
+msgid "Room"
+msgstr "Xona"
+
+#: home/templates/room_detail.html:197
+msgid "Category"
+msgstr "Katego'rya"
+
+#: home/templates/room_detail.html:207
+msgid "tariffs"
+msgstr "Tariflar"
+
+#: home/templates/room_detail.html:255
+msgid "High speed internet access"
+msgstr "Yuqori tezlikdagi Internetga kirish"
+
+#: home/templates/room_detail.html:259
+msgid "Air conditioner with climate control"
+msgstr "Iqlim nazorati bilan jihozlangan konditsioner"
+
+#: home/templates/room_detail.html:263
+msgid "Shower cabin + bath"
+msgstr "Dush kabinasi + hammom"
+
+#: home/templates/room_detail.html:267
+msgid "40-inch TV"
+msgstr "40 dyuymli televizor"
+
+#: home/templates/room_detail.html:271
+msgid "Safe for storage"
+msgstr "Saqlash uchun xavfsiz"
+
+#, fuzzy
+#~| msgid "Read more..."
+#~ msgid "read more..."
+#~ msgstr "Ko'proq..."

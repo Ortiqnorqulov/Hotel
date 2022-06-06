@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Theano Didot';
+    src: url('TheanoDidot/TheanoDidot-Regular.eot');
+    src: url('TheanoDidot/TheanoDidot-Regular-1.eot') format('embedded-opentype'),
+        url('TheanoDidot/TheanoDidot-Regular.woff2') format('woff2'),
+        url('TheanoDidot/TheanoDidot-Regular.woff') format('woff'),
+        url('TheanoDidot/TheanoDidot-Regular.ttf') format('truetype'),
+        url('TheanoDidot/TheanoDidot-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

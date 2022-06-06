@@ -1,0 +1,3154 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-21 21:13+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: creatoradmin/templates/aboutus/about_edit.html:86
+#: creatoradmin/templates/aboutus/about_update.html:86
+#: creatoradmin/templates/aboutus/add_aboutus.html:86
+#: creatoradmin/templates/admin/admin.html:88
+#: creatoradmin/templates/blog/blog_edit.html:86
+#: creatoradmin/templates/blog/blog_update.html:86
+#: creatoradmin/templates/blog/createblog.html:86
+#: creatoradmin/templates/bussines/addbussines.html:86
+#: creatoradmin/templates/bussines/edit_bussines.html:86
+#: creatoradmin/templates/bussines/update_bussines.html:86
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:86
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:86
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:86
+#: creatoradmin/templates/category/add_category.html:86
+#: creatoradmin/templates/category/category_edit.html:87
+#: creatoradmin/templates/category/category_update.html:88
+#: creatoradmin/templates/comment/comment.html:87
+#: creatoradmin/templates/contact/contact_admin.html:86
+#: creatoradmin/templates/contact/contact_status.html:88
+#: creatoradmin/templates/faq/faq_edit.html:86
+#: creatoradmin/templates/faq/faq_update.html:86
+#: creatoradmin/templates/faq/faqs.html:87
+#: creatoradmin/templates/information/addinfo.html:86
+#: creatoradmin/templates/information/info_edit.html:86
+#: creatoradmin/templates/information/info_update.html:86
+#: creatoradmin/templates/order/admin_note.html:88
+#: creatoradmin/templates/order/orderlist.html:86
+#: creatoradmin/templates/restourant/edit_restourant.html:86
+#: creatoradmin/templates/restourant/restourant.html:86
+#: creatoradmin/templates/restourant/update_restourant.html:86
+#: creatoradmin/templates/restourant_detail/create_restourant.html:86
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:86
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:86
+#: creatoradmin/templates/room/add_room.html:85
+#: creatoradmin/templates/room/room_edit.html:87
+#: creatoradmin/templates/room/room_update.html:88
+#: creatoradmin/templates/roomslider/RoomSlider.html:86
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:86
+#: creatoradmin/templates/roomslider/rooms_lider.html:86
+#: creatoradmin/templates/services/add_services.html:86
+#: creatoradmin/templates/services/services_edit.html:86
+#: creatoradmin/templates/services/services_update.html:86
+#: creatoradmin/templates/slider/addSlider.html:86
+#: creatoradmin/templates/slider/edit_slider.html:86
+#: creatoradmin/templates/slider/update_slider.html:86
+#: creatoradmin/templates/spa/addspa.html:86
+#: creatoradmin/templates/spa/edit_spa.html:86
+#: creatoradmin/templates/spa/update_spa.html:86
+#: creatoradmin/templates/special/addspecial.html:86
+#: creatoradmin/templates/special/edit_special.html:86
+#: creatoradmin/templates/special/update_special.html:86
+msgid "+ Create Room"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:118
+#: creatoradmin/templates/aboutus/about_update.html:118
+#: creatoradmin/templates/aboutus/add_aboutus.html:118
+#: creatoradmin/templates/admin/admin.html:120
+#: creatoradmin/templates/blog/blog_edit.html:118
+#: creatoradmin/templates/blog/blog_update.html:118
+#: creatoradmin/templates/blog/createblog.html:118
+#: creatoradmin/templates/bussines/addbussines.html:118
+#: creatoradmin/templates/bussines/edit_bussines.html:118
+#: creatoradmin/templates/bussines/update_bussines.html:120
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:118
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:118
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:120
+#: creatoradmin/templates/category/add_category.html:118
+#: creatoradmin/templates/category/category_edit.html:119
+#: creatoradmin/templates/category/category_update.html:120
+#: creatoradmin/templates/comment/comment.html:119
+#: creatoradmin/templates/contact/contact_admin.html:118
+#: creatoradmin/templates/contact/contact_status.html:120
+#: creatoradmin/templates/faq/faq_edit.html:119
+#: creatoradmin/templates/faq/faq_update.html:119
+#: creatoradmin/templates/faq/faqs.html:119
+#: creatoradmin/templates/information/addinfo.html:118
+#: creatoradmin/templates/information/info_edit.html:118
+#: creatoradmin/templates/information/info_update.html:118
+#: creatoradmin/templates/order/admin_note.html:120
+#: creatoradmin/templates/order/orderlist.html:118
+#: creatoradmin/templates/restourant/edit_restourant.html:118
+#: creatoradmin/templates/restourant/restourant.html:118
+#: creatoradmin/templates/restourant/update_restourant.html:120
+#: creatoradmin/templates/restourant_detail/create_restourant.html:118
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:118
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:120
+#: creatoradmin/templates/room/add_room.html:117
+#: creatoradmin/templates/room/room_edit.html:119
+#: creatoradmin/templates/room/room_update.html:121
+#: creatoradmin/templates/roomslider/RoomSlider.html:118
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:118
+#: creatoradmin/templates/roomslider/rooms_lider.html:120
+#: creatoradmin/templates/services/add_services.html:118
+#: creatoradmin/templates/services/services_edit.html:118
+#: creatoradmin/templates/services/services_update.html:120
+#: creatoradmin/templates/slider/addSlider.html:118
+#: creatoradmin/templates/slider/edit_slider.html:118
+#: creatoradmin/templates/slider/update_slider.html:120
+#: creatoradmin/templates/spa/addspa.html:118
+#: creatoradmin/templates/spa/edit_spa.html:118
+#: creatoradmin/templates/spa/update_spa.html:120
+#: creatoradmin/templates/special/addspecial.html:118
+#: creatoradmin/templates/special/edit_special.html:118
+#: creatoradmin/templates/special/update_special.html:120
+msgid "Settings"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:123
+#: creatoradmin/templates/aboutus/about_update.html:123
+#: creatoradmin/templates/aboutus/add_aboutus.html:123
+#: creatoradmin/templates/admin/admin.html:125
+#: creatoradmin/templates/blog/blog_edit.html:123
+#: creatoradmin/templates/blog/blog_update.html:123
+#: creatoradmin/templates/blog/createblog.html:123
+#: creatoradmin/templates/bussines/addbussines.html:123
+#: creatoradmin/templates/bussines/edit_bussines.html:123
+#: creatoradmin/templates/bussines/update_bussines.html:125
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:123
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:123
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:125
+#: creatoradmin/templates/category/add_category.html:123
+#: creatoradmin/templates/category/category_edit.html:124
+#: creatoradmin/templates/category/category_update.html:125
+#: creatoradmin/templates/comment/comment.html:124
+#: creatoradmin/templates/contact/contact_admin.html:123
+#: creatoradmin/templates/contact/contact_status.html:125
+#: creatoradmin/templates/faq/faq_edit.html:124
+#: creatoradmin/templates/faq/faq_update.html:124
+#: creatoradmin/templates/faq/faqs.html:124
+#: creatoradmin/templates/information/addinfo.html:123
+#: creatoradmin/templates/information/info_edit.html:123
+#: creatoradmin/templates/information/info_update.html:123
+#: creatoradmin/templates/order/admin_note.html:125
+#: creatoradmin/templates/order/orderlist.html:123
+#: creatoradmin/templates/registration/admin_note_reg.html:120
+#: creatoradmin/templates/registration/contact_registration.html:118
+#: creatoradmin/templates/registration/contact_status_reg.html:120
+#: creatoradmin/templates/registration/reg_orderlist.html:118
+#: creatoradmin/templates/registration/registration.html:120
+#: creatoradmin/templates/restourant/edit_restourant.html:123
+#: creatoradmin/templates/restourant/restourant.html:123
+#: creatoradmin/templates/restourant/update_restourant.html:125
+#: creatoradmin/templates/restourant_detail/create_restourant.html:123
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:123
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:125
+#: creatoradmin/templates/room/add_room.html:122
+#: creatoradmin/templates/room/room_edit.html:124
+#: creatoradmin/templates/room/room_update.html:126
+#: creatoradmin/templates/roomslider/RoomSlider.html:123
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:123
+#: creatoradmin/templates/roomslider/rooms_lider.html:125
+#: creatoradmin/templates/services/add_services.html:123
+#: creatoradmin/templates/services/services_edit.html:123
+#: creatoradmin/templates/services/services_update.html:125
+#: creatoradmin/templates/slider/addSlider.html:123
+#: creatoradmin/templates/slider/edit_slider.html:123
+#: creatoradmin/templates/slider/update_slider.html:125
+#: creatoradmin/templates/spa/addspa.html:123
+#: creatoradmin/templates/spa/edit_spa.html:123
+#: creatoradmin/templates/spa/update_spa.html:125
+#: creatoradmin/templates/special/addspecial.html:123
+#: creatoradmin/templates/special/edit_special.html:123
+#: creatoradmin/templates/special/update_special.html:125
+msgid "Logout"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:129
+#: creatoradmin/templates/aboutus/about_update.html:128
+#: creatoradmin/templates/aboutus/add_aboutus.html:128
+#: creatoradmin/templates/admin/admin.html:132
+#: creatoradmin/templates/blog/blog_edit.html:129
+#: creatoradmin/templates/blog/blog_update.html:128
+#: creatoradmin/templates/blog/createblog.html:129
+#: creatoradmin/templates/bussines/addbussines.html:129
+#: creatoradmin/templates/bussines/edit_bussines.html:129
+#: creatoradmin/templates/bussines/update_bussines.html:131
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:129
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:129
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:131
+#: creatoradmin/templates/category/add_category.html:129
+#: creatoradmin/templates/category/category_edit.html:130
+#: creatoradmin/templates/category/category_update.html:131
+#: creatoradmin/templates/comment/comment.html:130
+#: creatoradmin/templates/contact/contact_admin.html:128
+#: creatoradmin/templates/contact/contact_status.html:131
+#: creatoradmin/templates/faq/faq_edit.html:130
+#: creatoradmin/templates/faq/faq_update.html:130
+#: creatoradmin/templates/faq/faqs.html:130
+#: creatoradmin/templates/information/addinfo.html:129
+#: creatoradmin/templates/information/info_edit.html:129
+#: creatoradmin/templates/information/info_update.html:129
+#: creatoradmin/templates/order/admin_note.html:131
+#: creatoradmin/templates/order/orderlist.html:128
+#: creatoradmin/templates/restourant/edit_restourant.html:129
+#: creatoradmin/templates/restourant/restourant.html:129
+#: creatoradmin/templates/restourant/update_restourant.html:131
+#: creatoradmin/templates/restourant_detail/create_restourant.html:129
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:129
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:131
+#: creatoradmin/templates/room/add_room.html:128
+#: creatoradmin/templates/room/room_edit.html:130
+#: creatoradmin/templates/room/room_update.html:132
+#: creatoradmin/templates/roomslider/RoomSlider.html:129
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:129
+#: creatoradmin/templates/roomslider/rooms_lider.html:131
+#: creatoradmin/templates/services/add_services.html:130
+#: creatoradmin/templates/services/services_edit.html:129
+#: creatoradmin/templates/services/services_update.html:131
+#: creatoradmin/templates/slider/addSlider.html:129
+#: creatoradmin/templates/slider/edit_slider.html:129
+#: creatoradmin/templates/slider/update_slider.html:131
+#: creatoradmin/templates/spa/addspa.html:129
+#: creatoradmin/templates/spa/edit_spa.html:129
+#: creatoradmin/templates/spa/update_spa.html:131
+#: creatoradmin/templates/special/addspecial.html:129
+#: creatoradmin/templates/special/edit_special.html:129
+#: creatoradmin/templates/special/update_special.html:131
+msgid "Signup"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:189
+#: creatoradmin/templates/aboutus/about_update.html:190
+#: creatoradmin/templates/aboutus/add_aboutus.html:188
+#: creatoradmin/templates/admin/admin.html:193
+#: creatoradmin/templates/admin/admin.html:462
+#: creatoradmin/templates/blog/blog_edit.html:189
+#: creatoradmin/templates/blog/blog_update.html:191
+#: creatoradmin/templates/blog/createblog.html:190
+#: creatoradmin/templates/bussines/addbussines.html:190
+#: creatoradmin/templates/bussines/edit_bussines.html:190
+#: creatoradmin/templates/bussines/update_bussines.html:198
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:190
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:190
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:198
+#: creatoradmin/templates/category/add_category.html:190
+#: creatoradmin/templates/category/category_edit.html:192
+#: creatoradmin/templates/category/category_update.html:193
+#: creatoradmin/templates/category/category_update.html:462
+#: creatoradmin/templates/comment/comment.html:192
+#: creatoradmin/templates/contact/contact_admin.html:190
+#: creatoradmin/templates/contact/contact_status.html:193
+#: creatoradmin/templates/faq/faq_edit.html:192
+#: creatoradmin/templates/faq/faq_update.html:192
+#: creatoradmin/templates/faq/faqs.html:192
+#: creatoradmin/templates/information/addinfo.html:191
+#: creatoradmin/templates/information/info_edit.html:191
+#: creatoradmin/templates/information/info_update.html:191
+#: creatoradmin/templates/order/admin_note.html:193
+#: creatoradmin/templates/order/orderlist.html:190
+#: creatoradmin/templates/registration/admin_note_reg.html:185
+#: creatoradmin/templates/registration/contact_registration.html:182
+#: creatoradmin/templates/registration/contact_status_reg.html:186
+#: creatoradmin/templates/registration/reg_orderlist.html:182
+#: creatoradmin/templates/registration/registration.html:184
+#: creatoradmin/templates/registration/registration.html:210
+#: creatoradmin/templates/restourant/edit_restourant.html:190
+#: creatoradmin/templates/restourant/restourant.html:190
+#: creatoradmin/templates/restourant/update_restourant.html:198
+#: creatoradmin/templates/restourant_detail/create_restourant.html:190
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:190
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:198
+#: creatoradmin/templates/room/add_room.html:190
+#: creatoradmin/templates/room/room_edit.html:192
+#: creatoradmin/templates/room/room_update.html:194
+#: creatoradmin/templates/room/room_update.html:463
+#: creatoradmin/templates/roomslider/RoomSlider.html:190
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:190
+#: creatoradmin/templates/roomslider/rooms_lider.html:198
+#: creatoradmin/templates/services/add_services.html:191
+#: creatoradmin/templates/services/services_edit.html:190
+#: creatoradmin/templates/services/services_update.html:198
+#: creatoradmin/templates/slider/addSlider.html:190
+#: creatoradmin/templates/slider/edit_slider.html:190
+#: creatoradmin/templates/slider/update_slider.html:198
+#: creatoradmin/templates/spa/addspa.html:190
+#: creatoradmin/templates/spa/edit_spa.html:190
+#: creatoradmin/templates/spa/update_spa.html:198
+#: creatoradmin/templates/special/addspecial.html:190
+#: creatoradmin/templates/special/edit_special.html:190
+#: creatoradmin/templates/special/update_special.html:198
+msgid "Dashboard"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:195
+#: creatoradmin/templates/aboutus/about_update.html:196
+#: creatoradmin/templates/aboutus/add_aboutus.html:194
+#: creatoradmin/templates/admin/admin.html:199
+#: creatoradmin/templates/blog/blog_edit.html:195
+#: creatoradmin/templates/blog/blog_update.html:197
+#: creatoradmin/templates/blog/createblog.html:196
+#: creatoradmin/templates/bussines/addbussines.html:196
+#: creatoradmin/templates/bussines/edit_bussines.html:196
+#: creatoradmin/templates/bussines/update_bussines.html:204
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:196
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:196
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:204
+#: creatoradmin/templates/category/add_category.html:196
+#: creatoradmin/templates/category/category_edit.html:198
+#: creatoradmin/templates/category/category_update.html:199
+#: creatoradmin/templates/comment/comment.html:198
+#: creatoradmin/templates/contact/contact_admin.html:196
+#: creatoradmin/templates/contact/contact_status.html:199
+#: creatoradmin/templates/faq/faq_edit.html:198
+#: creatoradmin/templates/faq/faq_update.html:198
+#: creatoradmin/templates/faq/faqs.html:198
+#: creatoradmin/templates/information/addinfo.html:197
+#: creatoradmin/templates/information/addinfo.html:467
+#: creatoradmin/templates/information/info_edit.html:197
+#: creatoradmin/templates/information/info_update.html:197
+#: creatoradmin/templates/order/admin_note.html:199
+#: creatoradmin/templates/order/orderlist.html:196
+#: creatoradmin/templates/restourant/edit_restourant.html:196
+#: creatoradmin/templates/restourant/restourant.html:196
+#: creatoradmin/templates/restourant/update_restourant.html:204
+#: creatoradmin/templates/restourant_detail/create_restourant.html:196
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:196
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:204
+#: creatoradmin/templates/room/add_room.html:196
+#: creatoradmin/templates/room/room_edit.html:198
+#: creatoradmin/templates/room/room_update.html:200
+#: creatoradmin/templates/roomslider/RoomSlider.html:196
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:196
+#: creatoradmin/templates/roomslider/rooms_lider.html:204
+#: creatoradmin/templates/services/add_services.html:197
+#: creatoradmin/templates/services/services_edit.html:196
+#: creatoradmin/templates/services/services_update.html:204
+#: creatoradmin/templates/slider/addSlider.html:196
+#: creatoradmin/templates/slider/edit_slider.html:196
+#: creatoradmin/templates/slider/update_slider.html:204
+#: creatoradmin/templates/spa/addspa.html:196
+#: creatoradmin/templates/spa/edit_spa.html:196
+#: creatoradmin/templates/spa/update_spa.html:204
+#: creatoradmin/templates/special/addspecial.html:196
+#: creatoradmin/templates/special/edit_special.html:196
+#: creatoradmin/templates/special/update_special.html:204
+msgid "Add info"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:202
+#: creatoradmin/templates/aboutus/about_update.html:203
+#: creatoradmin/templates/aboutus/add_aboutus.html:201
+#: creatoradmin/templates/admin/admin.html:206
+#: creatoradmin/templates/blog/blog_edit.html:202
+#: creatoradmin/templates/blog/blog_update.html:204
+#: creatoradmin/templates/blog/createblog.html:203
+#: creatoradmin/templates/bussines/addbussines.html:203
+#: creatoradmin/templates/bussines/edit_bussines.html:203
+#: creatoradmin/templates/bussines/update_bussines.html:211
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:203
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:203
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:211
+#: creatoradmin/templates/category/add_category.html:203
+#: creatoradmin/templates/category/category_edit.html:205
+#: creatoradmin/templates/category/category_update.html:206
+#: creatoradmin/templates/comment/comment.html:205
+#: creatoradmin/templates/contact/contact_admin.html:203
+#: creatoradmin/templates/contact/contact_status.html:206
+#: creatoradmin/templates/faq/faq_edit.html:205
+#: creatoradmin/templates/faq/faq_update.html:205
+#: creatoradmin/templates/faq/faqs.html:205
+#: creatoradmin/templates/information/addinfo.html:204
+#: creatoradmin/templates/information/info_edit.html:204
+#: creatoradmin/templates/information/info_update.html:204
+#: creatoradmin/templates/order/admin_note.html:206
+#: creatoradmin/templates/order/orderlist.html:203
+#: creatoradmin/templates/restourant/edit_restourant.html:203
+#: creatoradmin/templates/restourant/restourant.html:203
+#: creatoradmin/templates/restourant/update_restourant.html:211
+#: creatoradmin/templates/restourant_detail/create_restourant.html:203
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:203
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:211
+#: creatoradmin/templates/room/add_room.html:203
+#: creatoradmin/templates/room/room_edit.html:205
+#: creatoradmin/templates/room/room_update.html:207
+#: creatoradmin/templates/roomslider/RoomSlider.html:203
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:203
+#: creatoradmin/templates/roomslider/rooms_lider.html:211
+#: creatoradmin/templates/services/add_services.html:204
+#: creatoradmin/templates/services/services_edit.html:203
+#: creatoradmin/templates/services/services_update.html:211
+#: creatoradmin/templates/slider/addSlider.html:203
+#: creatoradmin/templates/slider/edit_slider.html:203
+#: creatoradmin/templates/slider/update_slider.html:211
+#: creatoradmin/templates/spa/addspa.html:203
+#: creatoradmin/templates/spa/edit_spa.html:203
+#: creatoradmin/templates/spa/update_spa.html:211
+#: creatoradmin/templates/special/addspecial.html:203
+#: creatoradmin/templates/special/edit_special.html:203
+#: creatoradmin/templates/special/update_special.html:211
+msgid "Info update"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:209
+#: creatoradmin/templates/aboutus/about_update.html:210
+#: creatoradmin/templates/aboutus/add_aboutus.html:208
+#: creatoradmin/templates/admin/admin.html:213
+#: creatoradmin/templates/blog/blog_edit.html:209
+#: creatoradmin/templates/blog/blog_update.html:211
+#: creatoradmin/templates/blog/createblog.html:210
+#: creatoradmin/templates/bussines/addbussines.html:210
+#: creatoradmin/templates/bussines/edit_bussines.html:210
+#: creatoradmin/templates/bussines/update_bussines.html:218
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:210
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:210
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:218
+#: creatoradmin/templates/category/add_category.html:210
+#: creatoradmin/templates/category/category_edit.html:212
+#: creatoradmin/templates/category/category_update.html:213
+#: creatoradmin/templates/comment/comment.html:212
+#: creatoradmin/templates/contact/contact_admin.html:210
+#: creatoradmin/templates/contact/contact_status.html:213
+#: creatoradmin/templates/faq/faq_edit.html:212
+#: creatoradmin/templates/faq/faq_update.html:212
+#: creatoradmin/templates/faq/faqs.html:212
+#: creatoradmin/templates/information/addinfo.html:211
+#: creatoradmin/templates/information/info_edit.html:211
+#: creatoradmin/templates/information/info_update.html:211
+#: creatoradmin/templates/order/admin_note.html:213
+#: creatoradmin/templates/order/orderlist.html:210
+#: creatoradmin/templates/restourant/edit_restourant.html:210
+#: creatoradmin/templates/restourant/restourant.html:210
+#: creatoradmin/templates/restourant/update_restourant.html:218
+#: creatoradmin/templates/restourant_detail/create_restourant.html:210
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:210
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:218
+#: creatoradmin/templates/room/add_room.html:210
+#: creatoradmin/templates/room/room_edit.html:212
+#: creatoradmin/templates/room/room_update.html:214
+#: creatoradmin/templates/roomslider/RoomSlider.html:210
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:210
+#: creatoradmin/templates/roomslider/rooms_lider.html:218
+#: creatoradmin/templates/services/add_services.html:211
+#: creatoradmin/templates/services/services_edit.html:210
+#: creatoradmin/templates/services/services_update.html:218
+#: creatoradmin/templates/slider/addSlider.html:210
+#: creatoradmin/templates/slider/edit_slider.html:210
+#: creatoradmin/templates/slider/update_slider.html:218
+#: creatoradmin/templates/spa/addspa.html:210
+#: creatoradmin/templates/spa/edit_spa.html:210
+#: creatoradmin/templates/spa/update_spa.html:218
+#: creatoradmin/templates/special/addspecial.html:210
+#: creatoradmin/templates/special/edit_special.html:210
+#: creatoradmin/templates/special/update_special.html:218
+msgid "Add Category"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:216
+#: creatoradmin/templates/aboutus/about_update.html:217
+#: creatoradmin/templates/aboutus/add_aboutus.html:215
+#: creatoradmin/templates/admin/admin.html:220
+#: creatoradmin/templates/blog/blog_edit.html:216
+#: creatoradmin/templates/blog/blog_update.html:218
+#: creatoradmin/templates/blog/createblog.html:217
+#: creatoradmin/templates/bussines/addbussines.html:217
+#: creatoradmin/templates/bussines/edit_bussines.html:217
+#: creatoradmin/templates/bussines/update_bussines.html:225
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:217
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:217
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:225
+#: creatoradmin/templates/category/add_category.html:217
+#: creatoradmin/templates/category/category_edit.html:219
+#: creatoradmin/templates/category/category_update.html:220
+#: creatoradmin/templates/comment/comment.html:219
+#: creatoradmin/templates/contact/contact_admin.html:217
+#: creatoradmin/templates/contact/contact_status.html:220
+#: creatoradmin/templates/faq/faq_edit.html:219
+#: creatoradmin/templates/faq/faq_update.html:219
+#: creatoradmin/templates/faq/faqs.html:219
+#: creatoradmin/templates/information/addinfo.html:218
+#: creatoradmin/templates/information/info_edit.html:218
+#: creatoradmin/templates/information/info_update.html:218
+#: creatoradmin/templates/order/admin_note.html:220
+#: creatoradmin/templates/order/orderlist.html:217
+#: creatoradmin/templates/restourant/edit_restourant.html:217
+#: creatoradmin/templates/restourant/restourant.html:217
+#: creatoradmin/templates/restourant/update_restourant.html:225
+#: creatoradmin/templates/restourant_detail/create_restourant.html:217
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:217
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:225
+#: creatoradmin/templates/room/add_room.html:217
+#: creatoradmin/templates/room/room_edit.html:219
+#: creatoradmin/templates/room/room_update.html:221
+#: creatoradmin/templates/roomslider/RoomSlider.html:217
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:217
+#: creatoradmin/templates/roomslider/rooms_lider.html:225
+#: creatoradmin/templates/services/add_services.html:218
+#: creatoradmin/templates/services/services_edit.html:217
+#: creatoradmin/templates/services/services_update.html:225
+#: creatoradmin/templates/slider/addSlider.html:217
+#: creatoradmin/templates/slider/edit_slider.html:217
+#: creatoradmin/templates/slider/update_slider.html:225
+#: creatoradmin/templates/spa/addspa.html:217
+#: creatoradmin/templates/spa/edit_spa.html:217
+#: creatoradmin/templates/spa/update_spa.html:225
+#: creatoradmin/templates/special/addspecial.html:217
+#: creatoradmin/templates/special/edit_special.html:217
+#: creatoradmin/templates/special/update_special.html:225
+msgid "Category update"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:223
+#: creatoradmin/templates/aboutus/about_update.html:224
+#: creatoradmin/templates/aboutus/add_aboutus.html:222
+#: creatoradmin/templates/admin/admin.html:227
+#: creatoradmin/templates/blog/blog_edit.html:223
+#: creatoradmin/templates/blog/blog_update.html:225
+#: creatoradmin/templates/blog/createblog.html:224
+#: creatoradmin/templates/bussines/addbussines.html:224
+#: creatoradmin/templates/bussines/edit_bussines.html:224
+#: creatoradmin/templates/bussines/update_bussines.html:232
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:224
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:224
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:232
+#: creatoradmin/templates/category/add_category.html:224
+#: creatoradmin/templates/category/category_edit.html:226
+#: creatoradmin/templates/category/category_update.html:227
+#: creatoradmin/templates/comment/comment.html:226
+#: creatoradmin/templates/contact/contact_admin.html:224
+#: creatoradmin/templates/contact/contact_status.html:227
+#: creatoradmin/templates/faq/faq_edit.html:226
+#: creatoradmin/templates/faq/faq_update.html:226
+#: creatoradmin/templates/faq/faqs.html:226
+#: creatoradmin/templates/information/addinfo.html:225
+#: creatoradmin/templates/information/info_edit.html:225
+#: creatoradmin/templates/information/info_update.html:225
+#: creatoradmin/templates/order/admin_note.html:227
+#: creatoradmin/templates/order/orderlist.html:224
+#: creatoradmin/templates/restourant/edit_restourant.html:224
+#: creatoradmin/templates/restourant/restourant.html:224
+#: creatoradmin/templates/restourant/update_restourant.html:232
+#: creatoradmin/templates/restourant_detail/create_restourant.html:224
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:224
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:232
+#: creatoradmin/templates/room/add_room.html:224
+#: creatoradmin/templates/room/add_room.html:458
+#: creatoradmin/templates/room/add_room.html:466
+#: creatoradmin/templates/room/room_edit.html:226
+#: creatoradmin/templates/room/room_update.html:228
+#: creatoradmin/templates/roomslider/RoomSlider.html:224
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:224
+#: creatoradmin/templates/roomslider/rooms_lider.html:232
+#: creatoradmin/templates/services/add_services.html:225
+#: creatoradmin/templates/services/services_edit.html:224
+#: creatoradmin/templates/services/services_update.html:232
+#: creatoradmin/templates/slider/addSlider.html:224
+#: creatoradmin/templates/slider/edit_slider.html:224
+#: creatoradmin/templates/slider/update_slider.html:232
+#: creatoradmin/templates/spa/addspa.html:224
+#: creatoradmin/templates/spa/edit_spa.html:224
+#: creatoradmin/templates/spa/update_spa.html:232
+#: creatoradmin/templates/special/addspecial.html:224
+#: creatoradmin/templates/special/edit_special.html:224
+#: creatoradmin/templates/special/update_special.html:232
+msgid "Add Room"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:230
+#: creatoradmin/templates/aboutus/about_update.html:231
+#: creatoradmin/templates/aboutus/add_aboutus.html:229
+#: creatoradmin/templates/admin/admin.html:234
+#: creatoradmin/templates/blog/blog_edit.html:230
+#: creatoradmin/templates/blog/blog_update.html:232
+#: creatoradmin/templates/blog/createblog.html:231
+#: creatoradmin/templates/bussines/addbussines.html:231
+#: creatoradmin/templates/bussines/edit_bussines.html:231
+#: creatoradmin/templates/bussines/update_bussines.html:239
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:231
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:231
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:239
+#: creatoradmin/templates/category/add_category.html:231
+#: creatoradmin/templates/category/category_edit.html:233
+#: creatoradmin/templates/category/category_update.html:234
+#: creatoradmin/templates/comment/comment.html:233
+#: creatoradmin/templates/contact/contact_admin.html:231
+#: creatoradmin/templates/contact/contact_status.html:234
+#: creatoradmin/templates/faq/faq_edit.html:233
+#: creatoradmin/templates/faq/faq_update.html:233
+#: creatoradmin/templates/faq/faqs.html:233
+#: creatoradmin/templates/information/addinfo.html:232
+#: creatoradmin/templates/information/info_edit.html:232
+#: creatoradmin/templates/information/info_update.html:232
+#: creatoradmin/templates/order/admin_note.html:234
+#: creatoradmin/templates/order/orderlist.html:231
+#: creatoradmin/templates/restourant/edit_restourant.html:231
+#: creatoradmin/templates/restourant/restourant.html:231
+#: creatoradmin/templates/restourant/update_restourant.html:239
+#: creatoradmin/templates/restourant_detail/create_restourant.html:231
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:231
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:239
+#: creatoradmin/templates/room/add_room.html:231
+#: creatoradmin/templates/room/room_edit.html:233
+#: creatoradmin/templates/room/room_update.html:235
+#: creatoradmin/templates/roomslider/RoomSlider.html:231
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:231
+#: creatoradmin/templates/roomslider/rooms_lider.html:239
+#: creatoradmin/templates/services/add_services.html:232
+#: creatoradmin/templates/services/services_edit.html:231
+#: creatoradmin/templates/services/services_update.html:239
+#: creatoradmin/templates/slider/addSlider.html:231
+#: creatoradmin/templates/slider/edit_slider.html:231
+#: creatoradmin/templates/slider/update_slider.html:239
+#: creatoradmin/templates/spa/addspa.html:231
+#: creatoradmin/templates/spa/edit_spa.html:231
+#: creatoradmin/templates/spa/update_spa.html:239
+#: creatoradmin/templates/special/addspecial.html:231
+#: creatoradmin/templates/special/edit_special.html:231
+#: creatoradmin/templates/special/update_special.html:239
+msgid "Room update"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:236
+#: creatoradmin/templates/aboutus/about_update.html:237
+#: creatoradmin/templates/aboutus/add_aboutus.html:235
+#: creatoradmin/templates/admin/admin.html:240
+#: creatoradmin/templates/blog/blog_edit.html:236
+#: creatoradmin/templates/blog/blog_update.html:238
+#: creatoradmin/templates/blog/createblog.html:237
+#: creatoradmin/templates/bussines/addbussines.html:237
+#: creatoradmin/templates/bussines/edit_bussines.html:237
+#: creatoradmin/templates/bussines/update_bussines.html:245
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:237
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:237
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:245
+#: creatoradmin/templates/category/add_category.html:237
+#: creatoradmin/templates/category/category_edit.html:239
+#: creatoradmin/templates/category/category_update.html:240
+#: creatoradmin/templates/comment/comment.html:239
+#: creatoradmin/templates/contact/contact_admin.html:237
+#: creatoradmin/templates/contact/contact_status.html:240
+#: creatoradmin/templates/faq/faq_edit.html:239
+#: creatoradmin/templates/faq/faq_update.html:239
+#: creatoradmin/templates/faq/faqs.html:239
+#: creatoradmin/templates/information/addinfo.html:238
+#: creatoradmin/templates/information/info_edit.html:238
+#: creatoradmin/templates/information/info_update.html:238
+#: creatoradmin/templates/order/admin_note.html:240
+#: creatoradmin/templates/order/orderlist.html:237
+#: creatoradmin/templates/restourant/edit_restourant.html:237
+#: creatoradmin/templates/restourant/restourant.html:237
+#: creatoradmin/templates/restourant/update_restourant.html:245
+#: creatoradmin/templates/restourant_detail/create_restourant.html:237
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:237
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:245
+#: creatoradmin/templates/room/add_room.html:237
+#: creatoradmin/templates/room/room_edit.html:239
+#: creatoradmin/templates/room/room_update.html:241
+#: creatoradmin/templates/roomslider/RoomSlider.html:237
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:237
+#: creatoradmin/templates/roomslider/rooms_lider.html:245
+#: creatoradmin/templates/services/add_services.html:238
+#: creatoradmin/templates/services/services_edit.html:237
+#: creatoradmin/templates/services/services_update.html:245
+#: creatoradmin/templates/slider/addSlider.html:237
+#: creatoradmin/templates/slider/edit_slider.html:237
+#: creatoradmin/templates/slider/update_slider.html:245
+#: creatoradmin/templates/spa/addspa.html:237
+#: creatoradmin/templates/spa/edit_spa.html:237
+#: creatoradmin/templates/spa/update_spa.html:245
+#: creatoradmin/templates/special/addspecial.html:237
+#: creatoradmin/templates/special/edit_special.html:237
+#: creatoradmin/templates/special/update_special.html:245
+msgid "nmadurlarrr"
+msgstr "Add Blog"
+
+#: creatoradmin/templates/aboutus/about_edit.html:242
+#: creatoradmin/templates/aboutus/about_update.html:243
+#: creatoradmin/templates/aboutus/add_aboutus.html:241
+#: creatoradmin/templates/admin/admin.html:246
+#: creatoradmin/templates/blog/blog_edit.html:242
+#: creatoradmin/templates/blog/blog_update.html:244
+#: creatoradmin/templates/blog/createblog.html:243
+#: creatoradmin/templates/bussines/addbussines.html:243
+#: creatoradmin/templates/bussines/edit_bussines.html:243
+#: creatoradmin/templates/bussines/update_bussines.html:251
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:243
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:243
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:251
+#: creatoradmin/templates/category/add_category.html:243
+#: creatoradmin/templates/category/category_edit.html:245
+#: creatoradmin/templates/category/category_update.html:246
+#: creatoradmin/templates/comment/comment.html:245
+#: creatoradmin/templates/contact/contact_admin.html:243
+#: creatoradmin/templates/contact/contact_status.html:246
+#: creatoradmin/templates/faq/faq_edit.html:245
+#: creatoradmin/templates/faq/faq_update.html:245
+#: creatoradmin/templates/faq/faqs.html:245
+#: creatoradmin/templates/information/addinfo.html:244
+#: creatoradmin/templates/information/info_edit.html:244
+#: creatoradmin/templates/information/info_update.html:244
+#: creatoradmin/templates/order/admin_note.html:246
+#: creatoradmin/templates/order/orderlist.html:243
+#: creatoradmin/templates/restourant/edit_restourant.html:243
+#: creatoradmin/templates/restourant/restourant.html:243
+#: creatoradmin/templates/restourant/update_restourant.html:251
+#: creatoradmin/templates/restourant_detail/create_restourant.html:243
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:243
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:251
+#: creatoradmin/templates/room/add_room.html:243
+#: creatoradmin/templates/room/room_edit.html:245
+#: creatoradmin/templates/room/room_update.html:247
+#: creatoradmin/templates/roomslider/RoomSlider.html:243
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:243
+#: creatoradmin/templates/roomslider/rooms_lider.html:251
+#: creatoradmin/templates/services/add_services.html:244
+#: creatoradmin/templates/services/services_edit.html:243
+#: creatoradmin/templates/services/services_update.html:251
+#: creatoradmin/templates/slider/addSlider.html:243
+#: creatoradmin/templates/slider/edit_slider.html:243
+#: creatoradmin/templates/slider/update_slider.html:251
+#: creatoradmin/templates/spa/addspa.html:243
+#: creatoradmin/templates/spa/edit_spa.html:243
+#: creatoradmin/templates/spa/update_spa.html:251
+#: creatoradmin/templates/special/addspecial.html:243
+#: creatoradmin/templates/special/edit_special.html:243
+#: creatoradmin/templates/special/update_special.html:251
+msgid "nmau"
+msgstr "Blog update"
+
+#: creatoradmin/templates/aboutus/about_edit.html:250
+#: creatoradmin/templates/aboutus/about_update.html:251
+#: creatoradmin/templates/aboutus/add_aboutus.html:249
+#: creatoradmin/templates/admin/admin.html:254
+#: creatoradmin/templates/blog/blog_edit.html:250
+#: creatoradmin/templates/blog/blog_update.html:252
+#: creatoradmin/templates/blog/createblog.html:251
+#: creatoradmin/templates/bussines/addbussines.html:251
+#: creatoradmin/templates/bussines/edit_bussines.html:251
+#: creatoradmin/templates/bussines/update_bussines.html:259
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:251
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:251
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:259
+#: creatoradmin/templates/category/add_category.html:251
+#: creatoradmin/templates/category/category_edit.html:253
+#: creatoradmin/templates/category/category_update.html:254
+#: creatoradmin/templates/contact/contact_admin.html:251
+#: creatoradmin/templates/contact/contact_status.html:254
+#: creatoradmin/templates/faq/faq_edit.html:253
+#: creatoradmin/templates/faq/faq_update.html:253
+#: creatoradmin/templates/faq/faqs.html:253
+#: creatoradmin/templates/information/addinfo.html:252
+#: creatoradmin/templates/information/info_edit.html:252
+#: creatoradmin/templates/information/info_update.html:252
+#: creatoradmin/templates/order/admin_note.html:254
+#: creatoradmin/templates/order/orderlist.html:251
+#: creatoradmin/templates/restourant/edit_restourant.html:251
+#: creatoradmin/templates/restourant/restourant.html:251
+#: creatoradmin/templates/restourant/update_restourant.html:259
+#: creatoradmin/templates/restourant_detail/create_restourant.html:251
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:251
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:259
+#: creatoradmin/templates/room/add_room.html:251
+#: creatoradmin/templates/room/room_edit.html:253
+#: creatoradmin/templates/room/room_update.html:255
+#: creatoradmin/templates/roomslider/RoomSlider.html:251
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:251
+#: creatoradmin/templates/roomslider/rooms_lider.html:259
+#: creatoradmin/templates/services/add_services.html:252
+#: creatoradmin/templates/services/services_edit.html:251
+#: creatoradmin/templates/services/services_update.html:259
+#: creatoradmin/templates/slider/addSlider.html:251
+#: creatoradmin/templates/slider/edit_slider.html:251
+#: creatoradmin/templates/slider/update_slider.html:259
+#: creatoradmin/templates/spa/addspa.html:251
+#: creatoradmin/templates/spa/edit_spa.html:251
+#: creatoradmin/templates/spa/update_spa.html:259
+#: creatoradmin/templates/special/addspecial.html:251
+#: creatoradmin/templates/special/edit_special.html:251
+#: creatoradmin/templates/special/update_special.html:259
+msgid "ASOS"
+msgstr "Create main slider"
+
+#: creatoradmin/templates/aboutus/about_edit.html:258
+#: creatoradmin/templates/aboutus/about_update.html:259
+#: creatoradmin/templates/aboutus/add_aboutus.html:257
+#: creatoradmin/templates/admin/admin.html:262
+#: creatoradmin/templates/blog/blog_edit.html:258
+#: creatoradmin/templates/blog/blog_update.html:260
+#: creatoradmin/templates/blog/createblog.html:259
+#: creatoradmin/templates/bussines/addbussines.html:259
+#: creatoradmin/templates/bussines/edit_bussines.html:259
+#: creatoradmin/templates/bussines/update_bussines.html:267
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:259
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:259
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:267
+#: creatoradmin/templates/category/add_category.html:259
+#: creatoradmin/templates/category/category_edit.html:261
+#: creatoradmin/templates/category/category_update.html:262
+#: creatoradmin/templates/contact/contact_admin.html:259
+#: creatoradmin/templates/contact/contact_status.html:262
+#: creatoradmin/templates/faq/faq_edit.html:261
+#: creatoradmin/templates/faq/faq_update.html:261
+#: creatoradmin/templates/faq/faqs.html:261
+#: creatoradmin/templates/information/addinfo.html:260
+#: creatoradmin/templates/information/info_edit.html:260
+#: creatoradmin/templates/information/info_update.html:260
+#: creatoradmin/templates/order/admin_note.html:262
+#: creatoradmin/templates/order/orderlist.html:259
+#: creatoradmin/templates/restourant/edit_restourant.html:259
+#: creatoradmin/templates/restourant/restourant.html:259
+#: creatoradmin/templates/restourant/update_restourant.html:267
+#: creatoradmin/templates/restourant_detail/create_restourant.html:259
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:259
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:267
+#: creatoradmin/templates/room/add_room.html:259
+#: creatoradmin/templates/room/room_edit.html:261
+#: creatoradmin/templates/room/room_update.html:263
+#: creatoradmin/templates/roomslider/RoomSlider.html:259
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:259
+#: creatoradmin/templates/roomslider/rooms_lider.html:267
+#: creatoradmin/templates/services/add_services.html:260
+#: creatoradmin/templates/services/services_edit.html:259
+#: creatoradmin/templates/services/services_update.html:267
+#: creatoradmin/templates/slider/addSlider.html:259
+#: creatoradmin/templates/slider/edit_slider.html:259
+#: creatoradmin/templates/slider/update_slider.html:267
+#: creatoradmin/templates/spa/addspa.html:259
+#: creatoradmin/templates/spa/edit_spa.html:259
+#: creatoradmin/templates/spa/update_spa.html:267
+#: creatoradmin/templates/special/addspecial.html:259
+#: creatoradmin/templates/special/edit_special.html:259
+#: creatoradmin/templates/special/update_special.html:267
+msgid "UUPDATE"
+msgstr "Update main slider"
+
+#: creatoradmin/templates/aboutus/about_edit.html:266
+#: creatoradmin/templates/aboutus/about_update.html:267
+#: creatoradmin/templates/aboutus/add_aboutus.html:265
+#: creatoradmin/templates/admin/admin.html:270
+#: creatoradmin/templates/blog/blog_edit.html:266
+#: creatoradmin/templates/blog/blog_update.html:268
+#: creatoradmin/templates/blog/createblog.html:267
+#: creatoradmin/templates/bussines/addbussines.html:267
+#: creatoradmin/templates/bussines/edit_bussines.html:267
+#: creatoradmin/templates/bussines/update_bussines.html:275
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:267
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:267
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:275
+#: creatoradmin/templates/category/add_category.html:267
+#: creatoradmin/templates/category/category_edit.html:269
+#: creatoradmin/templates/category/category_update.html:270
+#: creatoradmin/templates/contact/contact_admin.html:267
+#: creatoradmin/templates/contact/contact_status.html:270
+#: creatoradmin/templates/faq/faq_edit.html:269
+#: creatoradmin/templates/faq/faq_update.html:269
+#: creatoradmin/templates/faq/faqs.html:269
+#: creatoradmin/templates/information/addinfo.html:268
+#: creatoradmin/templates/information/info_edit.html:268
+#: creatoradmin/templates/information/info_update.html:268
+#: creatoradmin/templates/order/admin_note.html:270
+#: creatoradmin/templates/order/orderlist.html:267
+#: creatoradmin/templates/restourant/edit_restourant.html:267
+#: creatoradmin/templates/restourant/restourant.html:267
+#: creatoradmin/templates/restourant/update_restourant.html:275
+#: creatoradmin/templates/restourant_detail/create_restourant.html:267
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:267
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:275
+#: creatoradmin/templates/room/add_room.html:267
+#: creatoradmin/templates/room/room_edit.html:269
+#: creatoradmin/templates/room/room_update.html:271
+#: creatoradmin/templates/roomslider/RoomSlider.html:267
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:267
+#: creatoradmin/templates/roomslider/rooms_lider.html:275
+#: creatoradmin/templates/services/add_services.html:268
+#: creatoradmin/templates/services/services_edit.html:267
+#: creatoradmin/templates/services/services_update.html:275
+#: creatoradmin/templates/slider/addSlider.html:267
+#: creatoradmin/templates/slider/edit_slider.html:267
+#: creatoradmin/templates/slider/update_slider.html:275
+#: creatoradmin/templates/spa/addspa.html:267
+#: creatoradmin/templates/spa/edit_spa.html:267
+#: creatoradmin/templates/spa/update_spa.html:275
+#: creatoradmin/templates/special/addspecial.html:267
+#: creatoradmin/templates/special/edit_special.html:267
+#: creatoradmin/templates/special/update_special.html:275
+msgid "KRREATE"
+msgstr "Create room slider"
+
+#: creatoradmin/templates/aboutus/about_edit.html:274
+#: creatoradmin/templates/aboutus/about_update.html:275
+#: creatoradmin/templates/aboutus/add_aboutus.html:273
+#: creatoradmin/templates/admin/admin.html:278
+#: creatoradmin/templates/blog/blog_edit.html:274
+#: creatoradmin/templates/blog/blog_update.html:276
+#: creatoradmin/templates/blog/createblog.html:275
+#: creatoradmin/templates/bussines/addbussines.html:275
+#: creatoradmin/templates/bussines/edit_bussines.html:275
+#: creatoradmin/templates/bussines/update_bussines.html:283
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:275
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:275
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:283
+#: creatoradmin/templates/category/add_category.html:275
+#: creatoradmin/templates/category/category_edit.html:277
+#: creatoradmin/templates/category/category_update.html:278
+#: creatoradmin/templates/contact/contact_admin.html:275
+#: creatoradmin/templates/contact/contact_status.html:278
+#: creatoradmin/templates/faq/faq_edit.html:277
+#: creatoradmin/templates/faq/faq_update.html:277
+#: creatoradmin/templates/faq/faqs.html:277
+#: creatoradmin/templates/information/addinfo.html:276
+#: creatoradmin/templates/information/info_edit.html:276
+#: creatoradmin/templates/information/info_update.html:276
+#: creatoradmin/templates/order/admin_note.html:278
+#: creatoradmin/templates/order/orderlist.html:275
+#: creatoradmin/templates/restourant/edit_restourant.html:275
+#: creatoradmin/templates/restourant/restourant.html:275
+#: creatoradmin/templates/restourant/update_restourant.html:283
+#: creatoradmin/templates/restourant_detail/create_restourant.html:275
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:275
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:283
+#: creatoradmin/templates/room/add_room.html:275
+#: creatoradmin/templates/room/room_edit.html:277
+#: creatoradmin/templates/room/room_update.html:279
+#: creatoradmin/templates/roomslider/RoomSlider.html:275
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:275
+#: creatoradmin/templates/roomslider/rooms_lider.html:283
+#: creatoradmin/templates/services/add_services.html:276
+#: creatoradmin/templates/services/services_edit.html:275
+#: creatoradmin/templates/services/services_update.html:283
+#: creatoradmin/templates/slider/addSlider.html:275
+#: creatoradmin/templates/slider/edit_slider.html:275
+#: creatoradmin/templates/slider/update_slider.html:283
+#: creatoradmin/templates/spa/addspa.html:275
+#: creatoradmin/templates/spa/edit_spa.html:275
+#: creatoradmin/templates/spa/update_spa.html:283
+#: creatoradmin/templates/special/addspecial.html:275
+#: creatoradmin/templates/special/edit_special.html:275
+#: creatoradmin/templates/special/update_special.html:283
+msgid "URS"
+msgstr "Update room slider"
+
+#: creatoradmin/templates/aboutus/about_edit.html:282
+#: creatoradmin/templates/aboutus/about_update.html:283
+#: creatoradmin/templates/aboutus/add_aboutus.html:281
+#: creatoradmin/templates/admin/admin.html:286
+#: creatoradmin/templates/blog/blog_edit.html:282
+#: creatoradmin/templates/blog/blog_update.html:284
+#: creatoradmin/templates/blog/createblog.html:283
+#: creatoradmin/templates/bussines/addbussines.html:283
+#: creatoradmin/templates/bussines/edit_bussines.html:283
+#: creatoradmin/templates/bussines/update_bussines.html:291
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:283
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:283
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:291
+#: creatoradmin/templates/category/add_category.html:283
+#: creatoradmin/templates/category/category_edit.html:285
+#: creatoradmin/templates/category/category_update.html:286
+#: creatoradmin/templates/contact/contact_admin.html:283
+#: creatoradmin/templates/contact/contact_status.html:286
+#: creatoradmin/templates/faq/faq_edit.html:285
+#: creatoradmin/templates/faq/faq_update.html:285
+#: creatoradmin/templates/faq/faqs.html:285
+#: creatoradmin/templates/information/addinfo.html:284
+#: creatoradmin/templates/information/info_edit.html:284
+#: creatoradmin/templates/information/info_update.html:284
+#: creatoradmin/templates/order/admin_note.html:286
+#: creatoradmin/templates/order/orderlist.html:283
+#: creatoradmin/templates/restourant/edit_restourant.html:283
+#: creatoradmin/templates/restourant/restourant.html:283
+#: creatoradmin/templates/restourant/update_restourant.html:291
+#: creatoradmin/templates/restourant_detail/create_restourant.html:283
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:283
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:291
+#: creatoradmin/templates/room/add_room.html:283
+#: creatoradmin/templates/room/room_edit.html:285
+#: creatoradmin/templates/room/room_update.html:287
+#: creatoradmin/templates/roomslider/RoomSlider.html:283
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:283
+#: creatoradmin/templates/roomslider/rooms_lider.html:291
+#: creatoradmin/templates/services/add_services.html:284
+#: creatoradmin/templates/services/services_edit.html:283
+#: creatoradmin/templates/services/services_update.html:291
+#: creatoradmin/templates/slider/addSlider.html:283
+#: creatoradmin/templates/slider/edit_slider.html:283
+#: creatoradmin/templates/slider/update_slider.html:291
+#: creatoradmin/templates/spa/addspa.html:283
+#: creatoradmin/templates/spa/edit_spa.html:283
+#: creatoradmin/templates/spa/update_spa.html:291
+#: creatoradmin/templates/special/addspecial.html:283
+#: creatoradmin/templates/special/edit_special.html:283
+#: creatoradmin/templates/special/update_special.html:291
+msgid "Create Special Offers"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:290
+#: creatoradmin/templates/aboutus/about_update.html:291
+#: creatoradmin/templates/aboutus/add_aboutus.html:289
+#: creatoradmin/templates/admin/admin.html:294
+#: creatoradmin/templates/blog/blog_edit.html:290
+#: creatoradmin/templates/blog/blog_update.html:292
+#: creatoradmin/templates/blog/createblog.html:291
+#: creatoradmin/templates/bussines/addbussines.html:291
+#: creatoradmin/templates/bussines/edit_bussines.html:291
+#: creatoradmin/templates/bussines/update_bussines.html:299
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:291
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:291
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:299
+#: creatoradmin/templates/category/add_category.html:291
+#: creatoradmin/templates/category/category_edit.html:293
+#: creatoradmin/templates/category/category_update.html:294
+#: creatoradmin/templates/contact/contact_admin.html:291
+#: creatoradmin/templates/contact/contact_status.html:294
+#: creatoradmin/templates/faq/faq_edit.html:293
+#: creatoradmin/templates/faq/faq_update.html:293
+#: creatoradmin/templates/faq/faqs.html:293
+#: creatoradmin/templates/information/addinfo.html:292
+#: creatoradmin/templates/information/info_edit.html:292
+#: creatoradmin/templates/information/info_update.html:292
+#: creatoradmin/templates/order/admin_note.html:294
+#: creatoradmin/templates/order/orderlist.html:291
+#: creatoradmin/templates/restourant/edit_restourant.html:291
+#: creatoradmin/templates/restourant/restourant.html:291
+#: creatoradmin/templates/restourant/update_restourant.html:299
+#: creatoradmin/templates/restourant_detail/create_restourant.html:291
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:291
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:299
+#: creatoradmin/templates/room/add_room.html:291
+#: creatoradmin/templates/room/room_edit.html:293
+#: creatoradmin/templates/room/room_update.html:295
+#: creatoradmin/templates/roomslider/RoomSlider.html:291
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:291
+#: creatoradmin/templates/roomslider/rooms_lider.html:299
+#: creatoradmin/templates/services/add_services.html:292
+#: creatoradmin/templates/services/services_edit.html:291
+#: creatoradmin/templates/services/services_update.html:299
+#: creatoradmin/templates/slider/addSlider.html:291
+#: creatoradmin/templates/slider/edit_slider.html:291
+#: creatoradmin/templates/slider/update_slider.html:299
+#: creatoradmin/templates/spa/addspa.html:291
+#: creatoradmin/templates/spa/edit_spa.html:291
+#: creatoradmin/templates/spa/update_spa.html:299
+#: creatoradmin/templates/special/addspecial.html:291
+#: creatoradmin/templates/special/edit_special.html:291
+#: creatoradmin/templates/special/update_special.html:299
+msgid "Maxsus taklifni yangilang"
+msgstr "Update special offers"
+
+#: creatoradmin/templates/aboutus/about_edit.html:298
+#: creatoradmin/templates/aboutus/about_update.html:299
+#: creatoradmin/templates/aboutus/add_aboutus.html:297
+#: creatoradmin/templates/admin/admin.html:302
+#: creatoradmin/templates/blog/blog_edit.html:298
+#: creatoradmin/templates/blog/blog_update.html:300
+#: creatoradmin/templates/blog/createblog.html:299
+#: creatoradmin/templates/bussines/addbussines.html:299
+#: creatoradmin/templates/bussines/edit_bussines.html:299
+#: creatoradmin/templates/bussines/update_bussines.html:307
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:299
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:299
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:307
+#: creatoradmin/templates/category/add_category.html:299
+#: creatoradmin/templates/category/category_edit.html:301
+#: creatoradmin/templates/category/category_update.html:302
+#: creatoradmin/templates/contact/contact_admin.html:299
+#: creatoradmin/templates/contact/contact_status.html:302
+#: creatoradmin/templates/faq/faq_edit.html:301
+#: creatoradmin/templates/faq/faq_update.html:301
+#: creatoradmin/templates/faq/faqs.html:301
+#: creatoradmin/templates/information/addinfo.html:300
+#: creatoradmin/templates/information/info_edit.html:300
+#: creatoradmin/templates/information/info_update.html:300
+#: creatoradmin/templates/order/admin_note.html:302
+#: creatoradmin/templates/order/orderlist.html:299
+#: creatoradmin/templates/restourant/edit_restourant.html:299
+#: creatoradmin/templates/restourant/restourant.html:299
+#: creatoradmin/templates/restourant/update_restourant.html:307
+#: creatoradmin/templates/restourant_detail/create_restourant.html:299
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:299
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:307
+#: creatoradmin/templates/room/add_room.html:299
+#: creatoradmin/templates/room/room_edit.html:301
+#: creatoradmin/templates/room/room_update.html:303
+#: creatoradmin/templates/roomslider/RoomSlider.html:299
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:299
+#: creatoradmin/templates/roomslider/rooms_lider.html:307
+#: creatoradmin/templates/services/add_services.html:300
+#: creatoradmin/templates/services/services_edit.html:299
+#: creatoradmin/templates/services/services_update.html:307
+#: creatoradmin/templates/slider/addSlider.html:299
+#: creatoradmin/templates/slider/edit_slider.html:299
+#: creatoradmin/templates/slider/update_slider.html:307
+#: creatoradmin/templates/spa/addspa.html:299
+#: creatoradmin/templates/spa/edit_spa.html:299
+#: creatoradmin/templates/spa/update_spa.html:307
+#: creatoradmin/templates/special/addspecial.html:299
+#: creatoradmin/templates/special/edit_special.html:299
+#: creatoradmin/templates/special/update_special.html:307
+msgid "Create Restourant Detail"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:306
+#: creatoradmin/templates/aboutus/about_update.html:307
+#: creatoradmin/templates/aboutus/add_aboutus.html:305
+#: creatoradmin/templates/admin/admin.html:310
+#: creatoradmin/templates/blog/blog_edit.html:306
+#: creatoradmin/templates/blog/blog_update.html:308
+#: creatoradmin/templates/blog/createblog.html:307
+#: creatoradmin/templates/bussines/addbussines.html:307
+#: creatoradmin/templates/bussines/edit_bussines.html:307
+#: creatoradmin/templates/bussines/update_bussines.html:315
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:307
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:307
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:315
+#: creatoradmin/templates/category/add_category.html:307
+#: creatoradmin/templates/category/category_edit.html:309
+#: creatoradmin/templates/category/category_update.html:310
+#: creatoradmin/templates/contact/contact_admin.html:307
+#: creatoradmin/templates/contact/contact_status.html:310
+#: creatoradmin/templates/faq/faq_edit.html:309
+#: creatoradmin/templates/faq/faq_update.html:309
+#: creatoradmin/templates/faq/faqs.html:309
+#: creatoradmin/templates/information/addinfo.html:308
+#: creatoradmin/templates/information/info_edit.html:308
+#: creatoradmin/templates/information/info_update.html:308
+#: creatoradmin/templates/order/admin_note.html:310
+#: creatoradmin/templates/order/orderlist.html:307
+#: creatoradmin/templates/restourant/edit_restourant.html:307
+#: creatoradmin/templates/restourant/restourant.html:307
+#: creatoradmin/templates/restourant/update_restourant.html:315
+#: creatoradmin/templates/restourant_detail/create_restourant.html:307
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:307
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:315
+#: creatoradmin/templates/room/add_room.html:307
+#: creatoradmin/templates/room/room_edit.html:309
+#: creatoradmin/templates/room/room_update.html:311
+#: creatoradmin/templates/roomslider/RoomSlider.html:307
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:307
+#: creatoradmin/templates/roomslider/rooms_lider.html:315
+#: creatoradmin/templates/services/add_services.html:308
+#: creatoradmin/templates/services/services_edit.html:307
+#: creatoradmin/templates/services/services_update.html:315
+#: creatoradmin/templates/slider/addSlider.html:307
+#: creatoradmin/templates/slider/edit_slider.html:307
+#: creatoradmin/templates/slider/update_slider.html:315
+#: creatoradmin/templates/spa/addspa.html:307
+#: creatoradmin/templates/spa/edit_spa.html:307
+#: creatoradmin/templates/spa/update_spa.html:315
+#: creatoradmin/templates/special/addspecial.html:307
+#: creatoradmin/templates/special/edit_special.html:307
+#: creatoradmin/templates/special/update_special.html:315
+msgid "Update Restourant Detail"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:314
+#: creatoradmin/templates/aboutus/about_update.html:315
+#: creatoradmin/templates/aboutus/add_aboutus.html:313
+#: creatoradmin/templates/admin/admin.html:318
+#: creatoradmin/templates/blog/blog_edit.html:314
+#: creatoradmin/templates/blog/blog_update.html:316
+#: creatoradmin/templates/blog/createblog.html:315
+#: creatoradmin/templates/bussines/addbussines.html:315
+#: creatoradmin/templates/bussines/edit_bussines.html:315
+#: creatoradmin/templates/bussines/update_bussines.html:323
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:315
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:315
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:323
+#: creatoradmin/templates/category/add_category.html:315
+#: creatoradmin/templates/category/category_edit.html:317
+#: creatoradmin/templates/category/category_update.html:318
+#: creatoradmin/templates/contact/contact_admin.html:315
+#: creatoradmin/templates/contact/contact_status.html:318
+#: creatoradmin/templates/faq/faq_edit.html:317
+#: creatoradmin/templates/faq/faq_update.html:317
+#: creatoradmin/templates/faq/faqs.html:317
+#: creatoradmin/templates/information/addinfo.html:316
+#: creatoradmin/templates/information/info_edit.html:316
+#: creatoradmin/templates/information/info_update.html:316
+#: creatoradmin/templates/order/admin_note.html:318
+#: creatoradmin/templates/order/orderlist.html:315
+#: creatoradmin/templates/restourant/edit_restourant.html:315
+#: creatoradmin/templates/restourant/restourant.html:315
+#: creatoradmin/templates/restourant/update_restourant.html:323
+#: creatoradmin/templates/restourant_detail/create_restourant.html:315
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:315
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:323
+#: creatoradmin/templates/room/add_room.html:315
+#: creatoradmin/templates/room/room_edit.html:317
+#: creatoradmin/templates/room/room_update.html:319
+#: creatoradmin/templates/roomslider/RoomSlider.html:315
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:315
+#: creatoradmin/templates/roomslider/rooms_lider.html:323
+#: creatoradmin/templates/services/add_services.html:316
+#: creatoradmin/templates/services/services_edit.html:315
+#: creatoradmin/templates/services/services_update.html:323
+#: creatoradmin/templates/slider/addSlider.html:315
+#: creatoradmin/templates/slider/edit_slider.html:315
+#: creatoradmin/templates/slider/update_slider.html:323
+#: creatoradmin/templates/spa/addspa.html:315
+#: creatoradmin/templates/spa/edit_spa.html:315
+#: creatoradmin/templates/spa/update_spa.html:323
+#: creatoradmin/templates/special/addspecial.html:315
+#: creatoradmin/templates/special/edit_special.html:315
+#: creatoradmin/templates/special/update_special.html:323
+msgid "Create Bussines Detail"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:322
+#: creatoradmin/templates/aboutus/about_update.html:323
+#: creatoradmin/templates/aboutus/add_aboutus.html:321
+#: creatoradmin/templates/admin/admin.html:326
+#: creatoradmin/templates/blog/blog_edit.html:322
+#: creatoradmin/templates/blog/blog_update.html:324
+#: creatoradmin/templates/blog/createblog.html:323
+#: creatoradmin/templates/bussines/addbussines.html:323
+#: creatoradmin/templates/bussines/edit_bussines.html:323
+#: creatoradmin/templates/bussines/update_bussines.html:331
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:323
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:323
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:331
+#: creatoradmin/templates/category/add_category.html:323
+#: creatoradmin/templates/category/category_edit.html:325
+#: creatoradmin/templates/category/category_update.html:326
+#: creatoradmin/templates/contact/contact_admin.html:323
+#: creatoradmin/templates/contact/contact_status.html:326
+#: creatoradmin/templates/faq/faq_edit.html:325
+#: creatoradmin/templates/faq/faq_update.html:325
+#: creatoradmin/templates/faq/faqs.html:325
+#: creatoradmin/templates/information/addinfo.html:324
+#: creatoradmin/templates/information/info_edit.html:324
+#: creatoradmin/templates/information/info_update.html:324
+#: creatoradmin/templates/order/admin_note.html:326
+#: creatoradmin/templates/order/orderlist.html:323
+#: creatoradmin/templates/restourant/edit_restourant.html:323
+#: creatoradmin/templates/restourant/restourant.html:323
+#: creatoradmin/templates/restourant/update_restourant.html:331
+#: creatoradmin/templates/restourant_detail/create_restourant.html:323
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:323
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:331
+#: creatoradmin/templates/room/add_room.html:323
+#: creatoradmin/templates/room/room_edit.html:325
+#: creatoradmin/templates/room/room_update.html:327
+#: creatoradmin/templates/roomslider/RoomSlider.html:323
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:323
+#: creatoradmin/templates/roomslider/rooms_lider.html:331
+#: creatoradmin/templates/services/add_services.html:324
+#: creatoradmin/templates/services/services_edit.html:323
+#: creatoradmin/templates/services/services_update.html:331
+#: creatoradmin/templates/slider/addSlider.html:323
+#: creatoradmin/templates/slider/edit_slider.html:323
+#: creatoradmin/templates/slider/update_slider.html:331
+#: creatoradmin/templates/spa/addspa.html:323
+#: creatoradmin/templates/spa/edit_spa.html:323
+#: creatoradmin/templates/spa/update_spa.html:331
+#: creatoradmin/templates/special/addspecial.html:323
+#: creatoradmin/templates/special/edit_special.html:323
+#: creatoradmin/templates/special/update_special.html:331
+msgid "Update Bussines detail"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:330
+#: creatoradmin/templates/aboutus/about_update.html:331
+#: creatoradmin/templates/aboutus/add_aboutus.html:329
+#: creatoradmin/templates/admin/admin.html:334
+#: creatoradmin/templates/blog/blog_edit.html:330
+#: creatoradmin/templates/blog/blog_update.html:332
+#: creatoradmin/templates/blog/createblog.html:331
+#: creatoradmin/templates/bussines/addbussines.html:331
+#: creatoradmin/templates/bussines/edit_bussines.html:331
+#: creatoradmin/templates/bussines/update_bussines.html:339
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:331
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:331
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:339
+#: creatoradmin/templates/category/add_category.html:331
+#: creatoradmin/templates/category/category_edit.html:333
+#: creatoradmin/templates/category/category_update.html:334
+#: creatoradmin/templates/contact/contact_admin.html:331
+#: creatoradmin/templates/contact/contact_status.html:334
+#: creatoradmin/templates/faq/faq_edit.html:333
+#: creatoradmin/templates/faq/faq_update.html:333
+#: creatoradmin/templates/faq/faqs.html:333
+#: creatoradmin/templates/information/addinfo.html:332
+#: creatoradmin/templates/information/info_edit.html:332
+#: creatoradmin/templates/information/info_update.html:332
+#: creatoradmin/templates/order/admin_note.html:334
+#: creatoradmin/templates/order/orderlist.html:331
+#: creatoradmin/templates/restourant/edit_restourant.html:331
+#: creatoradmin/templates/restourant/restourant.html:331
+#: creatoradmin/templates/restourant/update_restourant.html:339
+#: creatoradmin/templates/restourant_detail/create_restourant.html:331
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:331
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:339
+#: creatoradmin/templates/room/add_room.html:331
+#: creatoradmin/templates/room/room_edit.html:333
+#: creatoradmin/templates/room/room_update.html:335
+#: creatoradmin/templates/roomslider/RoomSlider.html:331
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:331
+#: creatoradmin/templates/roomslider/rooms_lider.html:339
+#: creatoradmin/templates/services/add_services.html:332
+#: creatoradmin/templates/services/services_edit.html:331
+#: creatoradmin/templates/services/services_update.html:339
+#: creatoradmin/templates/slider/addSlider.html:331
+#: creatoradmin/templates/slider/edit_slider.html:331
+#: creatoradmin/templates/slider/update_slider.html:339
+#: creatoradmin/templates/spa/addspa.html:331
+#: creatoradmin/templates/spa/edit_spa.html:331
+#: creatoradmin/templates/spa/update_spa.html:339
+#: creatoradmin/templates/special/addspecial.html:331
+#: creatoradmin/templates/special/edit_special.html:331
+#: creatoradmin/templates/special/update_special.html:339
+msgid "XXizzmat"
+msgstr "Create services detail"
+
+#: creatoradmin/templates/aboutus/about_edit.html:337
+#: creatoradmin/templates/aboutus/about_update.html:338
+#: creatoradmin/templates/aboutus/add_aboutus.html:336
+#: creatoradmin/templates/admin/admin.html:341
+#: creatoradmin/templates/blog/blog_edit.html:337
+#: creatoradmin/templates/blog/blog_update.html:339
+#: creatoradmin/templates/blog/createblog.html:338
+#: creatoradmin/templates/bussines/addbussines.html:338
+#: creatoradmin/templates/bussines/edit_bussines.html:338
+#: creatoradmin/templates/bussines/update_bussines.html:346
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:338
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:338
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:346
+#: creatoradmin/templates/category/add_category.html:338
+#: creatoradmin/templates/category/category_edit.html:340
+#: creatoradmin/templates/category/category_update.html:341
+#: creatoradmin/templates/contact/contact_admin.html:338
+#: creatoradmin/templates/contact/contact_status.html:341
+#: creatoradmin/templates/faq/faq_edit.html:340
+#: creatoradmin/templates/faq/faq_update.html:340
+#: creatoradmin/templates/faq/faqs.html:340
+#: creatoradmin/templates/information/addinfo.html:339
+#: creatoradmin/templates/information/info_edit.html:339
+#: creatoradmin/templates/information/info_update.html:339
+#: creatoradmin/templates/order/admin_note.html:341
+#: creatoradmin/templates/order/orderlist.html:338
+#: creatoradmin/templates/restourant/edit_restourant.html:338
+#: creatoradmin/templates/restourant/restourant.html:338
+#: creatoradmin/templates/restourant/update_restourant.html:346
+#: creatoradmin/templates/restourant_detail/create_restourant.html:338
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:338
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:346
+#: creatoradmin/templates/room/add_room.html:338
+#: creatoradmin/templates/room/room_edit.html:340
+#: creatoradmin/templates/room/room_update.html:342
+#: creatoradmin/templates/roomslider/RoomSlider.html:338
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:338
+#: creatoradmin/templates/roomslider/rooms_lider.html:346
+#: creatoradmin/templates/services/add_services.html:339
+#: creatoradmin/templates/services/services_edit.html:338
+#: creatoradmin/templates/services/services_update.html:346
+#: creatoradmin/templates/slider/addSlider.html:338
+#: creatoradmin/templates/slider/edit_slider.html:338
+#: creatoradmin/templates/slider/update_slider.html:346
+#: creatoradmin/templates/spa/addspa.html:338
+#: creatoradmin/templates/spa/edit_spa.html:338
+#: creatoradmin/templates/spa/update_spa.html:346
+#: creatoradmin/templates/special/addspecial.html:338
+#: creatoradmin/templates/special/edit_special.html:338
+#: creatoradmin/templates/special/update_special.html:346
+msgid "HHIZMAT"
+msgstr "Update services detail"
+
+#: creatoradmin/templates/aboutus/about_edit.html:345
+#: creatoradmin/templates/aboutus/about_update.html:346
+#: creatoradmin/templates/aboutus/add_aboutus.html:344
+#: creatoradmin/templates/admin/admin.html:349
+#: creatoradmin/templates/blog/blog_edit.html:345
+#: creatoradmin/templates/blog/blog_update.html:347
+#: creatoradmin/templates/blog/createblog.html:346
+#: creatoradmin/templates/bussines/addbussines.html:346
+#: creatoradmin/templates/bussines/edit_bussines.html:346
+#: creatoradmin/templates/bussines/update_bussines.html:354
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:346
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:346
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:354
+#: creatoradmin/templates/category/add_category.html:346
+#: creatoradmin/templates/category/category_edit.html:348
+#: creatoradmin/templates/category/category_update.html:349
+#: creatoradmin/templates/contact/contact_admin.html:346
+#: creatoradmin/templates/contact/contact_status.html:349
+#: creatoradmin/templates/faq/faq_edit.html:348
+#: creatoradmin/templates/faq/faq_update.html:348
+#: creatoradmin/templates/faq/faqs.html:348
+#: creatoradmin/templates/information/addinfo.html:347
+#: creatoradmin/templates/information/info_edit.html:347
+#: creatoradmin/templates/information/info_update.html:347
+#: creatoradmin/templates/order/admin_note.html:349
+#: creatoradmin/templates/order/orderlist.html:346
+#: creatoradmin/templates/restourant/edit_restourant.html:346
+#: creatoradmin/templates/restourant/restourant.html:346
+#: creatoradmin/templates/restourant/update_restourant.html:354
+#: creatoradmin/templates/restourant_detail/create_restourant.html:346
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:346
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:354
+#: creatoradmin/templates/room/add_room.html:346
+#: creatoradmin/templates/room/room_edit.html:348
+#: creatoradmin/templates/room/room_update.html:350
+#: creatoradmin/templates/roomslider/RoomSlider.html:346
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:346
+#: creatoradmin/templates/roomslider/rooms_lider.html:354
+#: creatoradmin/templates/services/add_services.html:347
+#: creatoradmin/templates/services/services_edit.html:346
+#: creatoradmin/templates/services/services_update.html:354
+#: creatoradmin/templates/slider/addSlider.html:346
+#: creatoradmin/templates/slider/edit_slider.html:346
+#: creatoradmin/templates/slider/update_slider.html:354
+#: creatoradmin/templates/spa/addspa.html:346
+#: creatoradmin/templates/spa/edit_spa.html:346
+#: creatoradmin/templates/spa/update_spa.html:354
+#: creatoradmin/templates/special/addspecial.html:346
+#: creatoradmin/templates/special/edit_special.html:346
+#: creatoradmin/templates/special/update_special.html:354
+msgid "Create Bussines slider"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:353
+#: creatoradmin/templates/aboutus/about_update.html:354
+#: creatoradmin/templates/aboutus/add_aboutus.html:352
+#: creatoradmin/templates/admin/admin.html:357
+#: creatoradmin/templates/blog/blog_edit.html:353
+#: creatoradmin/templates/blog/blog_update.html:355
+#: creatoradmin/templates/blog/createblog.html:354
+#: creatoradmin/templates/bussines/addbussines.html:354
+#: creatoradmin/templates/bussines/edit_bussines.html:354
+#: creatoradmin/templates/bussines/update_bussines.html:362
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:354
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:354
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:362
+#: creatoradmin/templates/category/add_category.html:354
+#: creatoradmin/templates/category/category_edit.html:356
+#: creatoradmin/templates/category/category_update.html:357
+#: creatoradmin/templates/contact/contact_admin.html:354
+#: creatoradmin/templates/contact/contact_status.html:357
+#: creatoradmin/templates/faq/faq_edit.html:356
+#: creatoradmin/templates/faq/faq_update.html:356
+#: creatoradmin/templates/faq/faqs.html:356
+#: creatoradmin/templates/information/addinfo.html:355
+#: creatoradmin/templates/information/info_edit.html:355
+#: creatoradmin/templates/information/info_update.html:355
+#: creatoradmin/templates/order/admin_note.html:357
+#: creatoradmin/templates/order/orderlist.html:354
+#: creatoradmin/templates/restourant/edit_restourant.html:354
+#: creatoradmin/templates/restourant/restourant.html:354
+#: creatoradmin/templates/restourant/update_restourant.html:362
+#: creatoradmin/templates/restourant_detail/create_restourant.html:354
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:354
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:362
+#: creatoradmin/templates/room/add_room.html:354
+#: creatoradmin/templates/room/room_edit.html:356
+#: creatoradmin/templates/room/room_update.html:358
+#: creatoradmin/templates/roomslider/RoomSlider.html:354
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:354
+#: creatoradmin/templates/roomslider/rooms_lider.html:362
+#: creatoradmin/templates/services/add_services.html:355
+#: creatoradmin/templates/services/services_edit.html:354
+#: creatoradmin/templates/services/services_update.html:362
+#: creatoradmin/templates/slider/addSlider.html:354
+#: creatoradmin/templates/slider/edit_slider.html:354
+#: creatoradmin/templates/slider/update_slider.html:362
+#: creatoradmin/templates/spa/addspa.html:354
+#: creatoradmin/templates/spa/edit_spa.html:354
+#: creatoradmin/templates/spa/update_spa.html:362
+#: creatoradmin/templates/special/addspecial.html:354
+#: creatoradmin/templates/special/edit_special.html:354
+#: creatoradmin/templates/special/update_special.html:362
+msgid "BUSSINESSSLIDER"
+msgstr "Update bussines slider"
+
+#: creatoradmin/templates/aboutus/about_edit.html:361
+#: creatoradmin/templates/aboutus/about_update.html:362
+#: creatoradmin/templates/aboutus/add_aboutus.html:360
+#: creatoradmin/templates/admin/admin.html:365
+#: creatoradmin/templates/blog/blog_edit.html:361
+#: creatoradmin/templates/blog/blog_update.html:363
+#: creatoradmin/templates/blog/createblog.html:362
+#: creatoradmin/templates/bussines/addbussines.html:362
+#: creatoradmin/templates/bussines/edit_bussines.html:362
+#: creatoradmin/templates/bussines/update_bussines.html:370
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:362
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:362
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:370
+#: creatoradmin/templates/category/add_category.html:362
+#: creatoradmin/templates/category/category_edit.html:364
+#: creatoradmin/templates/category/category_update.html:365
+#: creatoradmin/templates/contact/contact_admin.html:362
+#: creatoradmin/templates/contact/contact_status.html:365
+#: creatoradmin/templates/faq/faq_edit.html:364
+#: creatoradmin/templates/faq/faq_update.html:364
+#: creatoradmin/templates/faq/faqs.html:364
+#: creatoradmin/templates/information/addinfo.html:363
+#: creatoradmin/templates/information/info_edit.html:363
+#: creatoradmin/templates/information/info_update.html:363
+#: creatoradmin/templates/order/admin_note.html:365
+#: creatoradmin/templates/order/orderlist.html:362
+#: creatoradmin/templates/restourant/edit_restourant.html:362
+#: creatoradmin/templates/restourant/restourant.html:362
+#: creatoradmin/templates/restourant/update_restourant.html:370
+#: creatoradmin/templates/restourant_detail/create_restourant.html:362
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:362
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:370
+#: creatoradmin/templates/room/add_room.html:362
+#: creatoradmin/templates/room/room_edit.html:364
+#: creatoradmin/templates/room/room_update.html:366
+#: creatoradmin/templates/roomslider/RoomSlider.html:362
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:362
+#: creatoradmin/templates/roomslider/rooms_lider.html:370
+#: creatoradmin/templates/services/add_services.html:363
+#: creatoradmin/templates/services/services_edit.html:362
+#: creatoradmin/templates/services/services_update.html:370
+#: creatoradmin/templates/slider/addSlider.html:362
+#: creatoradmin/templates/slider/edit_slider.html:362
+#: creatoradmin/templates/slider/update_slider.html:370
+#: creatoradmin/templates/spa/addspa.html:362
+#: creatoradmin/templates/spa/edit_spa.html:362
+#: creatoradmin/templates/spa/update_spa.html:370
+#: creatoradmin/templates/special/addspecial.html:362
+#: creatoradmin/templates/special/edit_special.html:362
+#: creatoradmin/templates/special/update_special.html:370
+msgid "Create Restourant slider"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:368
+#: creatoradmin/templates/aboutus/about_update.html:369
+#: creatoradmin/templates/aboutus/add_aboutus.html:367
+#: creatoradmin/templates/admin/admin.html:372
+#: creatoradmin/templates/blog/blog_edit.html:368
+#: creatoradmin/templates/blog/blog_update.html:370
+#: creatoradmin/templates/blog/createblog.html:369
+#: creatoradmin/templates/bussines/addbussines.html:369
+#: creatoradmin/templates/bussines/edit_bussines.html:369
+#: creatoradmin/templates/bussines/update_bussines.html:377
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:369
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:369
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:377
+#: creatoradmin/templates/category/add_category.html:369
+#: creatoradmin/templates/category/category_edit.html:371
+#: creatoradmin/templates/category/category_update.html:372
+#: creatoradmin/templates/contact/contact_admin.html:369
+#: creatoradmin/templates/contact/contact_status.html:372
+#: creatoradmin/templates/faq/faq_edit.html:371
+#: creatoradmin/templates/faq/faq_update.html:371
+#: creatoradmin/templates/faq/faqs.html:371
+#: creatoradmin/templates/information/addinfo.html:370
+#: creatoradmin/templates/information/info_edit.html:370
+#: creatoradmin/templates/information/info_update.html:370
+#: creatoradmin/templates/order/admin_note.html:372
+#: creatoradmin/templates/order/orderlist.html:369
+#: creatoradmin/templates/restourant/edit_restourant.html:369
+#: creatoradmin/templates/restourant/restourant.html:369
+#: creatoradmin/templates/restourant/update_restourant.html:377
+#: creatoradmin/templates/restourant_detail/create_restourant.html:369
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:369
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:377
+#: creatoradmin/templates/room/add_room.html:369
+#: creatoradmin/templates/room/room_edit.html:371
+#: creatoradmin/templates/room/room_update.html:373
+#: creatoradmin/templates/roomslider/RoomSlider.html:369
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:369
+#: creatoradmin/templates/roomslider/rooms_lider.html:377
+#: creatoradmin/templates/services/add_services.html:370
+#: creatoradmin/templates/services/services_edit.html:369
+#: creatoradmin/templates/services/services_update.html:377
+#: creatoradmin/templates/slider/addSlider.html:369
+#: creatoradmin/templates/slider/edit_slider.html:369
+#: creatoradmin/templates/slider/update_slider.html:377
+#: creatoradmin/templates/spa/addspa.html:369
+#: creatoradmin/templates/spa/edit_spa.html:369
+#: creatoradmin/templates/spa/update_spa.html:377
+#: creatoradmin/templates/special/addspecial.html:369
+#: creatoradmin/templates/special/edit_special.html:369
+#: creatoradmin/templates/special/update_special.html:377
+msgid "Update Restourant slider"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:376
+#: creatoradmin/templates/aboutus/about_update.html:377
+#: creatoradmin/templates/aboutus/add_aboutus.html:375
+#: creatoradmin/templates/admin/admin.html:380
+#: creatoradmin/templates/blog/blog_edit.html:376
+#: creatoradmin/templates/blog/blog_update.html:378
+#: creatoradmin/templates/blog/createblog.html:377
+#: creatoradmin/templates/bussines/addbussines.html:377
+#: creatoradmin/templates/bussines/edit_bussines.html:377
+#: creatoradmin/templates/bussines/update_bussines.html:385
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:377
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:377
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:385
+#: creatoradmin/templates/category/add_category.html:377
+#: creatoradmin/templates/category/category_edit.html:379
+#: creatoradmin/templates/category/category_update.html:380
+#: creatoradmin/templates/contact/contact_admin.html:377
+#: creatoradmin/templates/contact/contact_status.html:380
+#: creatoradmin/templates/faq/faq_edit.html:379
+#: creatoradmin/templates/faq/faq_update.html:379
+#: creatoradmin/templates/faq/faqs.html:379
+#: creatoradmin/templates/information/addinfo.html:378
+#: creatoradmin/templates/information/info_edit.html:378
+#: creatoradmin/templates/information/info_update.html:378
+#: creatoradmin/templates/order/admin_note.html:380
+#: creatoradmin/templates/order/orderlist.html:377
+#: creatoradmin/templates/restourant/edit_restourant.html:377
+#: creatoradmin/templates/restourant/restourant.html:377
+#: creatoradmin/templates/restourant/update_restourant.html:385
+#: creatoradmin/templates/restourant_detail/create_restourant.html:377
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:377
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:385
+#: creatoradmin/templates/room/add_room.html:377
+#: creatoradmin/templates/room/room_edit.html:379
+#: creatoradmin/templates/room/room_update.html:381
+#: creatoradmin/templates/roomslider/RoomSlider.html:377
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:377
+#: creatoradmin/templates/roomslider/rooms_lider.html:385
+#: creatoradmin/templates/services/add_services.html:378
+#: creatoradmin/templates/services/services_edit.html:377
+#: creatoradmin/templates/services/services_update.html:385
+#: creatoradmin/templates/slider/addSlider.html:377
+#: creatoradmin/templates/slider/edit_slider.html:377
+#: creatoradmin/templates/slider/update_slider.html:385
+#: creatoradmin/templates/spa/addspa.html:377
+#: creatoradmin/templates/spa/edit_spa.html:377
+#: creatoradmin/templates/spa/update_spa.html:385
+#: creatoradmin/templates/special/addspecial.html:377
+#: creatoradmin/templates/special/edit_special.html:377
+#: creatoradmin/templates/special/update_special.html:385
+msgid "Spa yaratish"
+msgstr "Create spa slider"
+
+#: creatoradmin/templates/aboutus/about_edit.html:384
+#: creatoradmin/templates/aboutus/about_update.html:385
+#: creatoradmin/templates/aboutus/add_aboutus.html:383
+#: creatoradmin/templates/admin/admin.html:388
+#: creatoradmin/templates/blog/blog_edit.html:384
+#: creatoradmin/templates/blog/blog_update.html:386
+#: creatoradmin/templates/blog/createblog.html:385
+#: creatoradmin/templates/bussines/addbussines.html:385
+#: creatoradmin/templates/bussines/edit_bussines.html:385
+#: creatoradmin/templates/bussines/update_bussines.html:393
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:385
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:385
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:393
+#: creatoradmin/templates/category/add_category.html:385
+#: creatoradmin/templates/category/category_edit.html:387
+#: creatoradmin/templates/category/category_update.html:388
+#: creatoradmin/templates/contact/contact_admin.html:385
+#: creatoradmin/templates/contact/contact_status.html:388
+#: creatoradmin/templates/faq/faq_edit.html:387
+#: creatoradmin/templates/faq/faq_update.html:387
+#: creatoradmin/templates/faq/faqs.html:387
+#: creatoradmin/templates/information/addinfo.html:386
+#: creatoradmin/templates/information/info_edit.html:386
+#: creatoradmin/templates/information/info_update.html:386
+#: creatoradmin/templates/order/admin_note.html:388
+#: creatoradmin/templates/order/orderlist.html:385
+#: creatoradmin/templates/restourant/edit_restourant.html:385
+#: creatoradmin/templates/restourant/restourant.html:385
+#: creatoradmin/templates/restourant/update_restourant.html:393
+#: creatoradmin/templates/restourant_detail/create_restourant.html:385
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:385
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:393
+#: creatoradmin/templates/room/add_room.html:385
+#: creatoradmin/templates/room/room_edit.html:387
+#: creatoradmin/templates/room/room_update.html:389
+#: creatoradmin/templates/roomslider/RoomSlider.html:385
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:385
+#: creatoradmin/templates/roomslider/rooms_lider.html:393
+#: creatoradmin/templates/services/add_services.html:386
+#: creatoradmin/templates/services/services_edit.html:385
+#: creatoradmin/templates/services/services_update.html:393
+#: creatoradmin/templates/slider/addSlider.html:385
+#: creatoradmin/templates/slider/edit_slider.html:385
+#: creatoradmin/templates/slider/update_slider.html:393
+#: creatoradmin/templates/spa/addspa.html:385
+#: creatoradmin/templates/spa/edit_spa.html:385
+#: creatoradmin/templates/spa/update_spa.html:393
+#: creatoradmin/templates/special/addspecial.html:385
+#: creatoradmin/templates/special/edit_special.html:385
+#: creatoradmin/templates/special/update_special.html:393
+msgid "SPASLIIDEERR"
+msgstr "Update spa slider"
+
+#: creatoradmin/templates/aboutus/about_edit.html:391
+#: creatoradmin/templates/aboutus/about_edit.html:465
+#: creatoradmin/templates/aboutus/about_update.html:392
+#: creatoradmin/templates/aboutus/add_aboutus.html:390
+#: creatoradmin/templates/aboutus/add_aboutus.html:464
+#: creatoradmin/templates/admin/admin.html:395
+#: creatoradmin/templates/blog/blog_edit.html:391
+#: creatoradmin/templates/blog/blog_update.html:393
+#: creatoradmin/templates/blog/createblog.html:392
+#: creatoradmin/templates/bussines/addbussines.html:392
+#: creatoradmin/templates/bussines/edit_bussines.html:392
+#: creatoradmin/templates/bussines/update_bussines.html:400
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:392
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:392
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:400
+#: creatoradmin/templates/category/add_category.html:392
+#: creatoradmin/templates/category/category_edit.html:394
+#: creatoradmin/templates/category/category_update.html:395
+#: creatoradmin/templates/comment/comment.html:278
+#: creatoradmin/templates/contact/contact_admin.html:392
+#: creatoradmin/templates/contact/contact_status.html:395
+#: creatoradmin/templates/faq/faq_edit.html:394
+#: creatoradmin/templates/faq/faq_update.html:394
+#: creatoradmin/templates/faq/faqs.html:394
+#: creatoradmin/templates/information/addinfo.html:393
+#: creatoradmin/templates/information/info_edit.html:393
+#: creatoradmin/templates/information/info_update.html:393
+#: creatoradmin/templates/order/admin_note.html:395
+#: creatoradmin/templates/order/orderlist.html:392
+#: creatoradmin/templates/restourant/edit_restourant.html:392
+#: creatoradmin/templates/restourant/restourant.html:392
+#: creatoradmin/templates/restourant/update_restourant.html:400
+#: creatoradmin/templates/restourant_detail/create_restourant.html:392
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:392
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:400
+#: creatoradmin/templates/room/add_room.html:392
+#: creatoradmin/templates/room/room_edit.html:394
+#: creatoradmin/templates/room/room_update.html:396
+#: creatoradmin/templates/roomslider/RoomSlider.html:392
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:392
+#: creatoradmin/templates/roomslider/rooms_lider.html:400
+#: creatoradmin/templates/services/add_services.html:393
+#: creatoradmin/templates/services/services_edit.html:392
+#: creatoradmin/templates/services/services_update.html:400
+#: creatoradmin/templates/slider/addSlider.html:392
+#: creatoradmin/templates/slider/edit_slider.html:392
+#: creatoradmin/templates/slider/update_slider.html:400
+#: creatoradmin/templates/spa/addspa.html:392
+#: creatoradmin/templates/spa/edit_spa.html:392
+#: creatoradmin/templates/spa/update_spa.html:400
+#: creatoradmin/templates/special/addspecial.html:392
+#: creatoradmin/templates/special/edit_special.html:392
+#: creatoradmin/templates/special/update_special.html:400
+msgid "Add Aboutus"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:399
+#: creatoradmin/templates/aboutus/about_update.html:400
+#: creatoradmin/templates/aboutus/add_aboutus.html:398
+#: creatoradmin/templates/admin/admin.html:403
+#: creatoradmin/templates/blog/blog_edit.html:399
+#: creatoradmin/templates/blog/blog_update.html:401
+#: creatoradmin/templates/blog/createblog.html:400
+#: creatoradmin/templates/bussines/addbussines.html:400
+#: creatoradmin/templates/bussines/edit_bussines.html:400
+#: creatoradmin/templates/bussines/update_bussines.html:408
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:400
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:400
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:408
+#: creatoradmin/templates/category/add_category.html:400
+#: creatoradmin/templates/category/category_edit.html:402
+#: creatoradmin/templates/category/category_update.html:403
+#: creatoradmin/templates/comment/comment.html:286
+#: creatoradmin/templates/contact/contact_admin.html:400
+#: creatoradmin/templates/contact/contact_status.html:403
+#: creatoradmin/templates/faq/faq_edit.html:402
+#: creatoradmin/templates/faq/faq_update.html:402
+#: creatoradmin/templates/faq/faqs.html:402
+#: creatoradmin/templates/information/addinfo.html:401
+#: creatoradmin/templates/information/info_edit.html:401
+#: creatoradmin/templates/information/info_update.html:401
+#: creatoradmin/templates/order/admin_note.html:403
+#: creatoradmin/templates/order/orderlist.html:400
+#: creatoradmin/templates/restourant/edit_restourant.html:400
+#: creatoradmin/templates/restourant/restourant.html:400
+#: creatoradmin/templates/restourant/update_restourant.html:408
+#: creatoradmin/templates/restourant_detail/create_restourant.html:400
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:400
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:408
+#: creatoradmin/templates/room/add_room.html:400
+#: creatoradmin/templates/room/room_edit.html:402
+#: creatoradmin/templates/room/room_update.html:404
+#: creatoradmin/templates/roomslider/RoomSlider.html:400
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:400
+#: creatoradmin/templates/roomslider/rooms_lider.html:408
+#: creatoradmin/templates/services/add_services.html:401
+#: creatoradmin/templates/services/services_edit.html:400
+#: creatoradmin/templates/services/services_update.html:408
+#: creatoradmin/templates/slider/addSlider.html:400
+#: creatoradmin/templates/slider/edit_slider.html:400
+#: creatoradmin/templates/slider/update_slider.html:408
+#: creatoradmin/templates/spa/addspa.html:400
+#: creatoradmin/templates/spa/edit_spa.html:400
+#: creatoradmin/templates/spa/update_spa.html:408
+#: creatoradmin/templates/special/addspecial.html:400
+#: creatoradmin/templates/special/edit_special.html:400
+#: creatoradmin/templates/special/update_special.html:408
+msgid "Biz haqimzda yangilash"
+msgstr "Aboutus update"
+
+#: creatoradmin/templates/aboutus/about_edit.html:406
+#: creatoradmin/templates/aboutus/about_update.html:407
+#: creatoradmin/templates/aboutus/add_aboutus.html:405
+#: creatoradmin/templates/admin/admin.html:410
+#: creatoradmin/templates/blog/blog_edit.html:406
+#: creatoradmin/templates/blog/blog_update.html:408
+#: creatoradmin/templates/blog/createblog.html:407
+#: creatoradmin/templates/bussines/addbussines.html:407
+#: creatoradmin/templates/bussines/edit_bussines.html:407
+#: creatoradmin/templates/bussines/update_bussines.html:415
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:407
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:407
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:415
+#: creatoradmin/templates/category/add_category.html:407
+#: creatoradmin/templates/category/category_edit.html:409
+#: creatoradmin/templates/category/category_update.html:410
+#: creatoradmin/templates/comment/comment.html:293
+#: creatoradmin/templates/contact/contact_admin.html:407
+#: creatoradmin/templates/contact/contact_status.html:410
+#: creatoradmin/templates/faq/faq_edit.html:409
+#: creatoradmin/templates/faq/faq_update.html:409
+#: creatoradmin/templates/faq/faqs.html:409
+#: creatoradmin/templates/information/addinfo.html:408
+#: creatoradmin/templates/information/info_edit.html:408
+#: creatoradmin/templates/information/info_update.html:408
+#: creatoradmin/templates/order/admin_note.html:410
+#: creatoradmin/templates/order/orderlist.html:407
+#: creatoradmin/templates/restourant/edit_restourant.html:407
+#: creatoradmin/templates/restourant/restourant.html:407
+#: creatoradmin/templates/restourant/update_restourant.html:415
+#: creatoradmin/templates/restourant_detail/create_restourant.html:407
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:407
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:415
+#: creatoradmin/templates/room/add_room.html:407
+#: creatoradmin/templates/room/room_edit.html:409
+#: creatoradmin/templates/room/room_update.html:411
+#: creatoradmin/templates/roomslider/RoomSlider.html:407
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:407
+#: creatoradmin/templates/roomslider/rooms_lider.html:415
+#: creatoradmin/templates/services/add_services.html:408
+#: creatoradmin/templates/services/services_edit.html:407
+#: creatoradmin/templates/services/services_update.html:415
+#: creatoradmin/templates/slider/addSlider.html:407
+#: creatoradmin/templates/slider/edit_slider.html:407
+#: creatoradmin/templates/slider/update_slider.html:415
+#: creatoradmin/templates/spa/addspa.html:407
+#: creatoradmin/templates/spa/edit_spa.html:407
+#: creatoradmin/templates/spa/update_spa.html:415
+#: creatoradmin/templates/special/addspecial.html:407
+#: creatoradmin/templates/special/edit_special.html:407
+#: creatoradmin/templates/special/update_special.html:415
+msgid "Orders"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:413
+#: creatoradmin/templates/aboutus/about_update.html:414
+#: creatoradmin/templates/aboutus/add_aboutus.html:412
+#: creatoradmin/templates/admin/admin.html:417
+#: creatoradmin/templates/blog/blog_edit.html:413
+#: creatoradmin/templates/blog/blog_update.html:415
+#: creatoradmin/templates/blog/createblog.html:414
+#: creatoradmin/templates/bussines/addbussines.html:414
+#: creatoradmin/templates/bussines/edit_bussines.html:414
+#: creatoradmin/templates/bussines/update_bussines.html:422
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:414
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:414
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:422
+#: creatoradmin/templates/category/add_category.html:414
+#: creatoradmin/templates/category/category_edit.html:416
+#: creatoradmin/templates/category/category_update.html:417
+#: creatoradmin/templates/comment/comment.html:300
+#: creatoradmin/templates/contact/contact_admin.html:414
+#: creatoradmin/templates/contact/contact_status.html:417
+#: creatoradmin/templates/faq/faq_edit.html:416
+#: creatoradmin/templates/faq/faq_edit.html:470
+#: creatoradmin/templates/faq/faq_update.html:416
+#: creatoradmin/templates/faq/faq_update.html:460
+#: creatoradmin/templates/faq/faqs.html:416
+#: creatoradmin/templates/faq/faqs.html:470
+#: creatoradmin/templates/information/addinfo.html:415
+#: creatoradmin/templates/information/info_edit.html:415
+#: creatoradmin/templates/information/info_update.html:415
+#: creatoradmin/templates/order/admin_note.html:417
+#: creatoradmin/templates/order/orderlist.html:414
+#: creatoradmin/templates/restourant/edit_restourant.html:414
+#: creatoradmin/templates/restourant/restourant.html:414
+#: creatoradmin/templates/restourant/update_restourant.html:422
+#: creatoradmin/templates/restourant_detail/create_restourant.html:414
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:414
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:422
+#: creatoradmin/templates/room/add_room.html:414
+#: creatoradmin/templates/room/room_edit.html:416
+#: creatoradmin/templates/room/room_update.html:418
+#: creatoradmin/templates/roomslider/RoomSlider.html:414
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:414
+#: creatoradmin/templates/roomslider/rooms_lider.html:422
+#: creatoradmin/templates/services/add_services.html:415
+#: creatoradmin/templates/services/services_edit.html:414
+#: creatoradmin/templates/services/services_update.html:422
+#: creatoradmin/templates/slider/addSlider.html:414
+#: creatoradmin/templates/slider/edit_slider.html:414
+#: creatoradmin/templates/slider/update_slider.html:422
+#: creatoradmin/templates/spa/addspa.html:414
+#: creatoradmin/templates/spa/edit_spa.html:414
+#: creatoradmin/templates/spa/update_spa.html:422
+#: creatoradmin/templates/special/addspecial.html:414
+#: creatoradmin/templates/special/edit_special.html:414
+#: creatoradmin/templates/special/update_special.html:422
+msgid "FAQ"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:420
+#: creatoradmin/templates/aboutus/about_update.html:421
+#: creatoradmin/templates/aboutus/add_aboutus.html:419
+#: creatoradmin/templates/admin/admin.html:424
+#: creatoradmin/templates/blog/blog_edit.html:420
+#: creatoradmin/templates/blog/blog_update.html:422
+#: creatoradmin/templates/blog/createblog.html:421
+#: creatoradmin/templates/bussines/addbussines.html:421
+#: creatoradmin/templates/bussines/edit_bussines.html:421
+#: creatoradmin/templates/bussines/update_bussines.html:429
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:421
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:421
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:429
+#: creatoradmin/templates/category/add_category.html:421
+#: creatoradmin/templates/category/category_edit.html:423
+#: creatoradmin/templates/category/category_update.html:424
+#: creatoradmin/templates/comment/comment.html:307
+#: creatoradmin/templates/contact/contact_admin.html:421
+#: creatoradmin/templates/contact/contact_status.html:424
+#: creatoradmin/templates/faq/faq_edit.html:423
+#: creatoradmin/templates/faq/faq_update.html:423
+#: creatoradmin/templates/faq/faqs.html:423
+#: creatoradmin/templates/information/addinfo.html:422
+#: creatoradmin/templates/information/info_edit.html:422
+#: creatoradmin/templates/information/info_update.html:422
+#: creatoradmin/templates/order/admin_note.html:424
+#: creatoradmin/templates/order/orderlist.html:421
+#: creatoradmin/templates/restourant/edit_restourant.html:421
+#: creatoradmin/templates/restourant/restourant.html:421
+#: creatoradmin/templates/restourant/update_restourant.html:429
+#: creatoradmin/templates/restourant_detail/create_restourant.html:421
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:421
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:429
+#: creatoradmin/templates/room/add_room.html:421
+#: creatoradmin/templates/room/room_edit.html:423
+#: creatoradmin/templates/room/room_update.html:425
+#: creatoradmin/templates/roomslider/RoomSlider.html:421
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:421
+#: creatoradmin/templates/roomslider/rooms_lider.html:429
+#: creatoradmin/templates/services/add_services.html:422
+#: creatoradmin/templates/services/services_edit.html:421
+#: creatoradmin/templates/services/services_update.html:429
+#: creatoradmin/templates/slider/addSlider.html:421
+#: creatoradmin/templates/slider/edit_slider.html:421
+#: creatoradmin/templates/slider/update_slider.html:429
+#: creatoradmin/templates/spa/addspa.html:421
+#: creatoradmin/templates/spa/edit_spa.html:421
+#: creatoradmin/templates/spa/update_spa.html:429
+#: creatoradmin/templates/special/addspecial.html:421
+#: creatoradmin/templates/special/edit_special.html:421
+#: creatoradmin/templates/special/update_special.html:429
+msgid "FAQ Update"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:427
+#: creatoradmin/templates/aboutus/about_update.html:428
+#: creatoradmin/templates/aboutus/add_aboutus.html:426
+#: creatoradmin/templates/admin/admin.html:431
+#: creatoradmin/templates/blog/blog_edit.html:427
+#: creatoradmin/templates/blog/blog_update.html:429
+#: creatoradmin/templates/blog/createblog.html:428
+#: creatoradmin/templates/bussines/addbussines.html:428
+#: creatoradmin/templates/bussines/edit_bussines.html:428
+#: creatoradmin/templates/bussines/update_bussines.html:436
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:428
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:428
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:436
+#: creatoradmin/templates/category/add_category.html:428
+#: creatoradmin/templates/category/category_edit.html:430
+#: creatoradmin/templates/category/category_update.html:431
+#: creatoradmin/templates/comment/comment.html:321
+#: creatoradmin/templates/contact/contact_admin.html:428
+#: creatoradmin/templates/contact/contact_status.html:431
+#: creatoradmin/templates/faq/faq_edit.html:430
+#: creatoradmin/templates/faq/faq_update.html:430
+#: creatoradmin/templates/faq/faqs.html:430
+#: creatoradmin/templates/information/addinfo.html:429
+#: creatoradmin/templates/information/info_edit.html:429
+#: creatoradmin/templates/information/info_update.html:429
+#: creatoradmin/templates/order/admin_note.html:431
+#: creatoradmin/templates/order/orderlist.html:428
+#: creatoradmin/templates/restourant/edit_restourant.html:428
+#: creatoradmin/templates/restourant/restourant.html:428
+#: creatoradmin/templates/restourant/update_restourant.html:436
+#: creatoradmin/templates/restourant_detail/create_restourant.html:428
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:428
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:436
+#: creatoradmin/templates/room/add_room.html:428
+#: creatoradmin/templates/room/room_edit.html:430
+#: creatoradmin/templates/room/room_update.html:432
+#: creatoradmin/templates/roomslider/RoomSlider.html:428
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:428
+#: creatoradmin/templates/roomslider/rooms_lider.html:436
+#: creatoradmin/templates/services/add_services.html:429
+#: creatoradmin/templates/services/services_edit.html:428
+#: creatoradmin/templates/services/services_update.html:436
+#: creatoradmin/templates/slider/addSlider.html:428
+#: creatoradmin/templates/slider/edit_slider.html:428
+#: creatoradmin/templates/slider/update_slider.html:436
+#: creatoradmin/templates/spa/addspa.html:428
+#: creatoradmin/templates/spa/edit_spa.html:428
+#: creatoradmin/templates/spa/update_spa.html:436
+#: creatoradmin/templates/special/addspecial.html:428
+#: creatoradmin/templates/special/edit_special.html:428
+#: creatoradmin/templates/special/update_special.html:436
+msgid "Contact update"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:435
+#: creatoradmin/templates/aboutus/about_update.html:436
+#: creatoradmin/templates/aboutus/add_aboutus.html:434
+#: creatoradmin/templates/admin/admin.html:439
+#: creatoradmin/templates/blog/blog_edit.html:435
+#: creatoradmin/templates/blog/blog_update.html:437
+#: creatoradmin/templates/blog/createblog.html:436
+#: creatoradmin/templates/bussines/addbussines.html:436
+#: creatoradmin/templates/bussines/edit_bussines.html:436
+#: creatoradmin/templates/bussines/update_bussines.html:444
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:436
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:436
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:444
+#: creatoradmin/templates/category/add_category.html:436
+#: creatoradmin/templates/category/category_edit.html:438
+#: creatoradmin/templates/category/category_update.html:439
+#: creatoradmin/templates/comment/comment.html:328
+#: creatoradmin/templates/contact/contact_admin.html:436
+#: creatoradmin/templates/contact/contact_status.html:439
+#: creatoradmin/templates/faq/faq_edit.html:438
+#: creatoradmin/templates/faq/faq_update.html:438
+#: creatoradmin/templates/faq/faqs.html:438
+#: creatoradmin/templates/information/addinfo.html:437
+#: creatoradmin/templates/information/info_edit.html:437
+#: creatoradmin/templates/information/info_update.html:437
+#: creatoradmin/templates/order/admin_note.html:439
+#: creatoradmin/templates/order/orderlist.html:436
+#: creatoradmin/templates/restourant/edit_restourant.html:436
+#: creatoradmin/templates/restourant/restourant.html:436
+#: creatoradmin/templates/restourant/update_restourant.html:444
+#: creatoradmin/templates/restourant_detail/create_restourant.html:436
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:436
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:444
+#: creatoradmin/templates/room/add_room.html:436
+#: creatoradmin/templates/room/room_edit.html:438
+#: creatoradmin/templates/room/room_update.html:440
+#: creatoradmin/templates/roomslider/RoomSlider.html:436
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:436
+#: creatoradmin/templates/roomslider/rooms_lider.html:444
+#: creatoradmin/templates/services/add_services.html:437
+#: creatoradmin/templates/services/services_edit.html:436
+#: creatoradmin/templates/services/services_update.html:444
+#: creatoradmin/templates/slider/addSlider.html:436
+#: creatoradmin/templates/slider/edit_slider.html:436
+#: creatoradmin/templates/slider/update_slider.html:444
+#: creatoradmin/templates/spa/addspa.html:436
+#: creatoradmin/templates/spa/edit_spa.html:436
+#: creatoradmin/templates/spa/update_spa.html:444
+#: creatoradmin/templates/special/addspecial.html:436
+#: creatoradmin/templates/special/edit_special.html:436
+#: creatoradmin/templates/special/update_special.html:444
+msgid "Profile Update"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:441
+#: creatoradmin/templates/aboutus/about_update.html:442
+#: creatoradmin/templates/aboutus/add_aboutus.html:440
+#: creatoradmin/templates/admin/admin.html:445
+#: creatoradmin/templates/blog/blog_edit.html:441
+#: creatoradmin/templates/blog/blog_update.html:443
+#: creatoradmin/templates/blog/createblog.html:442
+#: creatoradmin/templates/bussines/addbussines.html:442
+#: creatoradmin/templates/bussines/edit_bussines.html:442
+#: creatoradmin/templates/bussines/update_bussines.html:450
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:442
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:442
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:450
+#: creatoradmin/templates/category/add_category.html:442
+#: creatoradmin/templates/category/category_edit.html:444
+#: creatoradmin/templates/category/category_update.html:445
+#: creatoradmin/templates/comment/comment.html:334
+#: creatoradmin/templates/contact/contact_admin.html:442
+#: creatoradmin/templates/contact/contact_status.html:445
+#: creatoradmin/templates/faq/faq_edit.html:444
+#: creatoradmin/templates/faq/faq_update.html:444
+#: creatoradmin/templates/faq/faqs.html:444
+#: creatoradmin/templates/information/addinfo.html:443
+#: creatoradmin/templates/information/info_edit.html:443
+#: creatoradmin/templates/information/info_update.html:443
+#: creatoradmin/templates/order/admin_note.html:445
+#: creatoradmin/templates/order/orderlist.html:442
+#: creatoradmin/templates/restourant/edit_restourant.html:442
+#: creatoradmin/templates/restourant/restourant.html:442
+#: creatoradmin/templates/restourant/update_restourant.html:450
+#: creatoradmin/templates/restourant_detail/create_restourant.html:442
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:442
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:450
+#: creatoradmin/templates/room/add_room.html:442
+#: creatoradmin/templates/room/room_edit.html:444
+#: creatoradmin/templates/room/room_update.html:446
+#: creatoradmin/templates/roomslider/RoomSlider.html:442
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:442
+#: creatoradmin/templates/roomslider/rooms_lider.html:450
+#: creatoradmin/templates/services/add_services.html:443
+#: creatoradmin/templates/services/services_edit.html:442
+#: creatoradmin/templates/services/services_update.html:450
+#: creatoradmin/templates/slider/addSlider.html:442
+#: creatoradmin/templates/slider/edit_slider.html:442
+#: creatoradmin/templates/slider/update_slider.html:450
+#: creatoradmin/templates/spa/addspa.html:442
+#: creatoradmin/templates/spa/edit_spa.html:442
+#: creatoradmin/templates/spa/update_spa.html:450
+#: creatoradmin/templates/special/addspecial.html:442
+#: creatoradmin/templates/special/edit_special.html:442
+#: creatoradmin/templates/special/update_special.html:450
+msgid "Profile edit"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:447
+#: creatoradmin/templates/aboutus/about_update.html:448
+#: creatoradmin/templates/aboutus/add_aboutus.html:446
+#: creatoradmin/templates/admin/admin.html:451
+#: creatoradmin/templates/blog/blog_edit.html:447
+#: creatoradmin/templates/blog/blog_update.html:449
+#: creatoradmin/templates/blog/createblog.html:448
+#: creatoradmin/templates/bussines/addbussines.html:448
+#: creatoradmin/templates/bussines/edit_bussines.html:448
+#: creatoradmin/templates/bussines/update_bussines.html:456
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:448
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:448
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:456
+#: creatoradmin/templates/category/add_category.html:448
+#: creatoradmin/templates/category/category_edit.html:450
+#: creatoradmin/templates/category/category_update.html:451
+#: creatoradmin/templates/comment/comment.html:340
+#: creatoradmin/templates/contact/contact_admin.html:448
+#: creatoradmin/templates/contact/contact_status.html:451
+#: creatoradmin/templates/faq/faq_edit.html:450
+#: creatoradmin/templates/faq/faq_update.html:450
+#: creatoradmin/templates/faq/faqs.html:450
+#: creatoradmin/templates/information/addinfo.html:449
+#: creatoradmin/templates/information/info_edit.html:449
+#: creatoradmin/templates/information/info_update.html:449
+#: creatoradmin/templates/order/admin_note.html:451
+#: creatoradmin/templates/order/orderlist.html:448
+#: creatoradmin/templates/restourant/edit_restourant.html:448
+#: creatoradmin/templates/restourant/restourant.html:448
+#: creatoradmin/templates/restourant/update_restourant.html:456
+#: creatoradmin/templates/restourant_detail/create_restourant.html:448
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:448
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:456
+#: creatoradmin/templates/room/add_room.html:448
+#: creatoradmin/templates/room/room_edit.html:450
+#: creatoradmin/templates/room/room_update.html:452
+#: creatoradmin/templates/roomslider/RoomSlider.html:448
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:448
+#: creatoradmin/templates/roomslider/rooms_lider.html:456
+#: creatoradmin/templates/services/add_services.html:449
+#: creatoradmin/templates/services/services_edit.html:448
+#: creatoradmin/templates/services/services_update.html:456
+#: creatoradmin/templates/slider/addSlider.html:448
+#: creatoradmin/templates/slider/edit_slider.html:448
+#: creatoradmin/templates/slider/update_slider.html:456
+#: creatoradmin/templates/spa/addspa.html:448
+#: creatoradmin/templates/spa/edit_spa.html:448
+#: creatoradmin/templates/spa/update_spa.html:456
+#: creatoradmin/templates/special/addspecial.html:448
+#: creatoradmin/templates/special/edit_special.html:448
+#: creatoradmin/templates/special/update_special.html:456
+msgid "Change password"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:457
+#: creatoradmin/templates/aboutus/add_aboutus.html:456
+msgid "Form Aboutus"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:467
+#: creatoradmin/templates/aboutus/add_aboutus.html:466
+msgid "Aboutus"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:472
+#: creatoradmin/templates/aboutus/add_aboutus.html:471
+#: creatoradmin/templates/blog/blog_edit.html:472
+#: creatoradmin/templates/blog/createblog.html:473
+#: creatoradmin/templates/bussines/addbussines.html:473
+#: creatoradmin/templates/bussines/edit_bussines.html:473
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:473
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:473
+#: creatoradmin/templates/category/add_category.html:473
+#: creatoradmin/templates/category/category_edit.html:475
+#: creatoradmin/templates/information/info_edit.html:473
+#: creatoradmin/templates/restourant/edit_restourant.html:473
+#: creatoradmin/templates/restourant/restourant.html:473
+#: creatoradmin/templates/restourant_detail/create_restourant.html:473
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:473
+#: creatoradmin/templates/room/add_room.html:473
+#: creatoradmin/templates/room/room_edit.html:477
+#: creatoradmin/templates/services/add_services.html:474
+#: creatoradmin/templates/services/services_edit.html:473
+#: creatoradmin/templates/slider/addSlider.html:473
+#: creatoradmin/templates/slider/edit_slider.html:473
+#: creatoradmin/templates/spa/addspa.html:473
+#: creatoradmin/templates/spa/edit_spa.html:473
+#: creatoradmin/templates/special/addspecial.html:473
+#: creatoradmin/templates/special/edit_special.html:473
+msgid "Title UZ"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:477
+#: creatoradmin/templates/aboutus/add_aboutus.html:476
+#: creatoradmin/templates/blog/blog_edit.html:477
+#: creatoradmin/templates/blog/createblog.html:478
+#: creatoradmin/templates/bussines/addbussines.html:478
+#: creatoradmin/templates/bussines/edit_bussines.html:478
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:478
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:478
+#: creatoradmin/templates/category/add_category.html:478
+#: creatoradmin/templates/category/category_edit.html:479
+#: creatoradmin/templates/information/info_edit.html:478
+#: creatoradmin/templates/restourant/edit_restourant.html:478
+#: creatoradmin/templates/restourant/restourant.html:478
+#: creatoradmin/templates/restourant_detail/create_restourant.html:478
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:478
+#: creatoradmin/templates/room/add_room.html:478
+#: creatoradmin/templates/room/room_edit.html:482
+#: creatoradmin/templates/services/add_services.html:479
+#: creatoradmin/templates/services/services_edit.html:478
+#: creatoradmin/templates/slider/addSlider.html:478
+#: creatoradmin/templates/slider/edit_slider.html:478
+#: creatoradmin/templates/spa/addspa.html:478
+#: creatoradmin/templates/spa/edit_spa.html:478
+#: creatoradmin/templates/special/addspecial.html:478
+#: creatoradmin/templates/special/edit_special.html:478
+msgid "Title EN"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:482
+#: creatoradmin/templates/aboutus/add_aboutus.html:481
+#: creatoradmin/templates/blog/blog_edit.html:482
+#: creatoradmin/templates/blog/createblog.html:483
+#: creatoradmin/templates/bussines/addbussines.html:483
+#: creatoradmin/templates/bussines/edit_bussines.html:483
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:483
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:483
+#: creatoradmin/templates/category/add_category.html:483
+#: creatoradmin/templates/category/category_edit.html:483
+#: creatoradmin/templates/information/info_edit.html:483
+#: creatoradmin/templates/restourant/edit_restourant.html:483
+#: creatoradmin/templates/restourant/restourant.html:483
+#: creatoradmin/templates/restourant_detail/create_restourant.html:483
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:483
+#: creatoradmin/templates/room/add_room.html:483
+#: creatoradmin/templates/room/room_edit.html:487
+#: creatoradmin/templates/services/add_services.html:484
+#: creatoradmin/templates/services/services_edit.html:483
+#: creatoradmin/templates/slider/addSlider.html:483
+#: creatoradmin/templates/slider/edit_slider.html:483
+#: creatoradmin/templates/spa/addspa.html:483
+#: creatoradmin/templates/spa/edit_spa.html:483
+#: creatoradmin/templates/special/addspecial.html:483
+#: creatoradmin/templates/special/edit_special.html:483
+msgid "Title RU"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:491
+#: creatoradmin/templates/aboutus/add_aboutus.html:488
+#: creatoradmin/templates/blog/blog_edit.html:486
+#: creatoradmin/templates/blog/createblog.html:490
+#: creatoradmin/templates/bussines/addbussines.html:490
+#: creatoradmin/templates/bussines/edit_bussines.html:490
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:490
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:490
+#: creatoradmin/templates/category/add_category.html:490
+#: creatoradmin/templates/category/category_edit.html:497
+#: creatoradmin/templates/information/info_edit.html:524
+#: creatoradmin/templates/restourant/edit_restourant.html:490
+#: creatoradmin/templates/restourant/restourant.html:490
+#: creatoradmin/templates/restourant_detail/create_restourant.html:490
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:490
+#: creatoradmin/templates/room/add_room.html:541
+#: creatoradmin/templates/room/room_edit.html:544
+#: creatoradmin/templates/services/add_services.html:491
+#: creatoradmin/templates/services/services_edit.html:491
+#: creatoradmin/templates/slider/addSlider.html:490
+#: creatoradmin/templates/slider/edit_slider.html:490
+#: creatoradmin/templates/spa/addspa.html:490
+#: creatoradmin/templates/spa/edit_spa.html:490
+#: creatoradmin/templates/special/addspecial.html:490
+#: creatoradmin/templates/special/edit_special.html:490
+msgid "Image"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:496
+#: creatoradmin/templates/aboutus/add_aboutus.html:493
+#: creatoradmin/templates/blog/blog_edit.html:491
+#: creatoradmin/templates/blog/createblog.html:495
+#: creatoradmin/templates/bussines/addbussines.html:495
+#: creatoradmin/templates/bussines/edit_bussines.html:495
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:495
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:495
+#: creatoradmin/templates/category/add_category.html:495
+#: creatoradmin/templates/category/category_edit.html:502
+#: creatoradmin/templates/information/info_edit.html:529
+#: creatoradmin/templates/restourant/edit_restourant.html:495
+#: creatoradmin/templates/restourant/restourant.html:495
+#: creatoradmin/templates/restourant_detail/create_restourant.html:495
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:495
+#: creatoradmin/templates/room/add_room.html:546
+#: creatoradmin/templates/room/room_edit.html:549
+#: creatoradmin/templates/services/add_services.html:496
+#: creatoradmin/templates/services/services_edit.html:496
+#: creatoradmin/templates/slider/addSlider.html:495
+#: creatoradmin/templates/slider/edit_slider.html:495
+#: creatoradmin/templates/spa/addspa.html:495
+#: creatoradmin/templates/spa/edit_spa.html:495
+#: creatoradmin/templates/special/addspecial.html:495
+#: creatoradmin/templates/special/edit_special.html:495
+msgid "Upload"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:504
+#: creatoradmin/templates/aboutus/add_aboutus.html:500
+#: creatoradmin/templates/blog/blog_edit.html:504
+#: creatoradmin/templates/blog/createblog.html:506
+#: creatoradmin/templates/bussines/addbussines.html:503
+#: creatoradmin/templates/bussines/edit_bussines.html:503
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:503
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:503
+#: creatoradmin/templates/category/add_category.html:514
+#: creatoradmin/templates/category/category_edit.html:507
+#: creatoradmin/templates/information/info_edit.html:540
+#: creatoradmin/templates/restourant/edit_restourant.html:503
+#: creatoradmin/templates/restourant/restourant.html:503
+#: creatoradmin/templates/restourant_detail/create_restourant.html:503
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:503
+#: creatoradmin/templates/room/add_room.html:553
+#: creatoradmin/templates/room/room_edit.html:556
+#: creatoradmin/templates/services/add_services.html:507
+#: creatoradmin/templates/services/services_edit.html:504
+#: creatoradmin/templates/spa/addspa.html:503
+#: creatoradmin/templates/spa/edit_spa.html:503
+#: creatoradmin/templates/special/addspecial.html:503
+#: creatoradmin/templates/special/edit_special.html:503
+msgid "Description UZ"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:509
+#: creatoradmin/templates/aboutus/add_aboutus.html:505
+#: creatoradmin/templates/blog/blog_edit.html:509
+#: creatoradmin/templates/blog/createblog.html:511
+#: creatoradmin/templates/bussines/addbussines.html:508
+#: creatoradmin/templates/bussines/edit_bussines.html:508
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:508
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:508
+#: creatoradmin/templates/category/add_category.html:519
+#: creatoradmin/templates/category/category_edit.html:510
+#: creatoradmin/templates/information/info_edit.html:545
+#: creatoradmin/templates/restourant/edit_restourant.html:508
+#: creatoradmin/templates/restourant/restourant.html:508
+#: creatoradmin/templates/restourant_detail/create_restourant.html:508
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:508
+#: creatoradmin/templates/room/add_room.html:558
+#: creatoradmin/templates/room/room_edit.html:561
+#: creatoradmin/templates/services/add_services.html:512
+#: creatoradmin/templates/services/services_edit.html:509
+#: creatoradmin/templates/spa/addspa.html:508
+#: creatoradmin/templates/spa/edit_spa.html:508
+#: creatoradmin/templates/special/addspecial.html:508
+#: creatoradmin/templates/special/edit_special.html:508
+msgid "Description EN"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:514
+#: creatoradmin/templates/aboutus/add_aboutus.html:510
+#: creatoradmin/templates/blog/blog_edit.html:514
+#: creatoradmin/templates/blog/createblog.html:516
+#: creatoradmin/templates/bussines/addbussines.html:513
+#: creatoradmin/templates/bussines/edit_bussines.html:513
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:513
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:513
+#: creatoradmin/templates/category/add_category.html:524
+#: creatoradmin/templates/category/category_edit.html:513
+#: creatoradmin/templates/information/info_edit.html:550
+#: creatoradmin/templates/restourant/edit_restourant.html:513
+#: creatoradmin/templates/restourant/restourant.html:513
+#: creatoradmin/templates/restourant_detail/create_restourant.html:513
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:513
+#: creatoradmin/templates/room/add_room.html:563
+#: creatoradmin/templates/room/room_edit.html:566
+#: creatoradmin/templates/services/add_services.html:517
+#: creatoradmin/templates/services/services_edit.html:514
+#: creatoradmin/templates/spa/addspa.html:513
+#: creatoradmin/templates/spa/edit_spa.html:513
+#: creatoradmin/templates/special/addspecial.html:513
+#: creatoradmin/templates/special/edit_special.html:513
+msgid "Description RU"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_edit.html:517
+#: creatoradmin/templates/aboutus/add_aboutus.html:513
+#: creatoradmin/templates/blog/blog_edit.html:517
+#: creatoradmin/templates/blog/createblog.html:519
+#: creatoradmin/templates/bussines/addbussines.html:516
+#: creatoradmin/templates/bussines/edit_bussines.html:516
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:516
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:516
+#: creatoradmin/templates/category/add_category.html:527
+#: creatoradmin/templates/category/category_edit.html:516
+#: creatoradmin/templates/contact/contact_status.html:481
+#: creatoradmin/templates/faq/faq_edit.html:509
+#: creatoradmin/templates/faq/faqs.html:516
+#: creatoradmin/templates/information/addinfo.html:474
+#: creatoradmin/templates/information/info_edit.html:561
+#: creatoradmin/templates/order/admin_note.html:481
+#: creatoradmin/templates/registration/admin_note_reg.html:230
+#: creatoradmin/templates/registration/contact_status_reg.html:229
+#: creatoradmin/templates/restourant/edit_restourant.html:516
+#: creatoradmin/templates/restourant/restourant.html:516
+#: creatoradmin/templates/restourant_detail/create_restourant.html:516
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:516
+#: creatoradmin/templates/room/add_room.html:566
+#: creatoradmin/templates/room/room_edit.html:569
+#: creatoradmin/templates/roomslider/RoomSlider.html:473
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:473
+#: creatoradmin/templates/services/add_services.html:520
+#: creatoradmin/templates/services/services_edit.html:517
+#: creatoradmin/templates/slider/addSlider.html:499
+#: creatoradmin/templates/slider/edit_slider.html:499
+#: creatoradmin/templates/spa/addspa.html:516
+#: creatoradmin/templates/spa/edit_spa.html:516
+#: creatoradmin/templates/special/addspecial.html:516
+#: creatoradmin/templates/special/edit_special.html:516
+msgid "Submit"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_update.html:458
+msgid "Update About"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_update.html:478
+#: creatoradmin/templates/blog/blog_update.html:477
+#: creatoradmin/templates/bussines/update_bussines.html:488
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:488
+#: creatoradmin/templates/information/info_update.html:502
+#: creatoradmin/templates/restourant/update_restourant.html:488
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:488
+#: creatoradmin/templates/roomslider/rooms_lider.html:485
+#: creatoradmin/templates/services/services_update.html:486
+#: creatoradmin/templates/slider/update_slider.html:485
+#: creatoradmin/templates/spa/update_spa.html:488
+#: creatoradmin/templates/special/update_special.html:488
+msgid "Change"
+msgstr ""
+
+#: creatoradmin/templates/aboutus/about_update.html:479
+#: creatoradmin/templates/blog/blog_update.html:478
+#: creatoradmin/templates/bussines/update_bussines.html:491
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:491
+#: creatoradmin/templates/contact/contact_admin.html:483
+#: creatoradmin/templates/faq/faq_update.html:486
+#: creatoradmin/templates/information/info_update.html:503
+#: creatoradmin/templates/order/orderlist.html:494
+#: creatoradmin/templates/registration/contact_registration.html:232
+#: creatoradmin/templates/registration/reg_orderlist.html:243
+#: creatoradmin/templates/restourant/update_restourant.html:491
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:491
+#: creatoradmin/templates/roomslider/rooms_lider.html:488
+#: creatoradmin/templates/services/services_update.html:489
+#: creatoradmin/templates/slider/update_slider.html:488
+#: creatoradmin/templates/spa/update_spa.html:491
+#: creatoradmin/templates/special/update_special.html:491
+msgid "Delete"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:473
+#: creatoradmin/templates/admin/admin.html:476
+#: creatoradmin/templates/blog/createblog.html:468
+#: creatoradmin/templates/registration/registration.html:221
+#: creatoradmin/templates/registration/registration.html:224
+msgid "Blog"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:482
+#: creatoradmin/templates/admin/admin.html:485
+#: creatoradmin/templates/admin/admin.html:584
+#: creatoradmin/templates/admin/admin.html:644
+#: creatoradmin/templates/comment/comment.html:370
+#: creatoradmin/templates/order/orderlist.html:483
+#: creatoradmin/templates/registration/reg_orderlist.html:232
+#: creatoradmin/templates/registration/registration.html:230
+#: creatoradmin/templates/registration/registration.html:233
+#: creatoradmin/templates/registration/registration.html:332
+#: creatoradmin/templates/registration/registration.html:392
+#: creatoradmin/templates/room/room_update.html:486
+msgid "Room"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:490
+#: creatoradmin/templates/admin/admin.html:493
+#: creatoradmin/templates/admin/admin.html:536
+#: creatoradmin/templates/admin/admin.html:593
+#: creatoradmin/templates/blog/blog_edit.html:467
+#: creatoradmin/templates/category/add_category.html:468
+#: creatoradmin/templates/order/orderlist.html:484
+#: creatoradmin/templates/registration/reg_orderlist.html:233
+#: creatoradmin/templates/registration/registration.html:238
+#: creatoradmin/templates/registration/registration.html:241
+#: creatoradmin/templates/registration/registration.html:284
+#: creatoradmin/templates/registration/registration.html:341
+#: creatoradmin/templates/room/add_room.html:529
+#: creatoradmin/templates/room/room_edit.html:532
+#: creatoradmin/templates/room/room_update.html:493
+msgid "Category"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:498
+#: creatoradmin/templates/admin/admin.html:501
+#: creatoradmin/templates/order/admin_note.html:476
+#: creatoradmin/templates/registration/admin_note_reg.html:225
+#: creatoradmin/templates/registration/registration.html:246
+#: creatoradmin/templates/registration/registration.html:249
+msgid "Order"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:507
+#: creatoradmin/templates/admin/admin.html:510
+#: creatoradmin/templates/registration/admin_note_reg.html:198
+#: creatoradmin/templates/registration/contact_registration.html:195
+#: creatoradmin/templates/registration/contact_status_reg.html:199
+#: creatoradmin/templates/registration/reg_orderlist.html:195
+#: creatoradmin/templates/registration/registration.html:197
+#: creatoradmin/templates/registration/registration.html:255
+#: creatoradmin/templates/registration/registration.html:258
+msgid "Contact"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:521
+#: creatoradmin/templates/category/category_update.html:470
+#: creatoradmin/templates/registration/registration.html:269
+msgid "Table Category"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:533
+#: creatoradmin/templates/admin/admin.html:581
+#: creatoradmin/templates/category/category_update.html:482
+#: creatoradmin/templates/registration/registration.html:281
+#: creatoradmin/templates/registration/registration.html:329
+#: creatoradmin/templates/room/room_update.html:483
+msgid "Iamge"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:569
+#: creatoradmin/templates/registration/registration.html:317
+#: creatoradmin/templates/room/room_update.html:471
+msgid "Table Room"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:590
+#: creatoradmin/templates/blog/blog_edit.html:497
+#: creatoradmin/templates/blog/createblog.html:500
+#: creatoradmin/templates/category/add_category.html:500
+#: creatoradmin/templates/category/category_edit.html:491
+#: creatoradmin/templates/contact/contact_admin.html:482
+#: creatoradmin/templates/faq/faq_edit.html:504
+#: creatoradmin/templates/faq/faqs.html:511
+#: creatoradmin/templates/information/info_edit.html:556
+#: creatoradmin/templates/order/orderlist.html:493
+#: creatoradmin/templates/registration/contact_registration.html:231
+#: creatoradmin/templates/registration/reg_orderlist.html:242
+#: creatoradmin/templates/registration/registration.html:338
+#: creatoradmin/templates/room/add_room.html:535
+#: creatoradmin/templates/room/room_edit.html:538
+msgid "Status"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:629
+#: creatoradmin/templates/registration/registration.html:377
+msgid "Table Order"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:650
+#: creatoradmin/templates/order/orderlist.html:480
+#: creatoradmin/templates/registration/reg_orderlist.html:229
+#: creatoradmin/templates/registration/registration.html:398
+msgid "Guest"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:653
+#: creatoradmin/templates/registration/registration.html:401
+msgid "arrival"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:656
+#: creatoradmin/templates/registration/registration.html:404
+msgid "departure"
+msgstr ""
+
+#: creatoradmin/templates/admin/admin.html:659
+#: creatoradmin/templates/registration/registration.html:407
+msgid "Create at"
+msgstr ""
+
+#: creatoradmin/templates/blog/blog_edit.html:457
+#: creatoradmin/templates/category/add_category.html:458
+msgid "Form Category"
+msgstr ""
+
+#: creatoradmin/templates/blog/blog_edit.html:465
+#: creatoradmin/templates/category/add_category.html:466
+msgid "Add category"
+msgstr ""
+
+#: creatoradmin/templates/blog/blog_update.html:459
+msgid "Update Blog"
+msgstr ""
+
+#: creatoradmin/templates/blog/createblog.html:458
+#: creatoradmin/templates/bussines/addbussines.html:458
+#: creatoradmin/templates/bussines/edit_bussines.html:458
+#: creatoradmin/templates/restourant/edit_restourant.html:458
+#: creatoradmin/templates/restourant/restourant.html:458
+#: creatoradmin/templates/restourant_detail/create_restourant.html:458
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:458
+msgid "Form Blog"
+msgstr ""
+
+#: creatoradmin/templates/blog/createblog.html:466
+msgid "Add Blog"
+msgstr ""
+
+#: creatoradmin/templates/bussines/addbussines.html:466
+#: creatoradmin/templates/bussines/edit_bussines.html:466
+#: creatoradmin/templates/restourant/edit_restourant.html:466
+#: creatoradmin/templates/restourant/restourant.html:466
+#: creatoradmin/templates/restourant_detail/create_restourant.html:466
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:466
+msgid "Add Bussines"
+msgstr ""
+
+#: creatoradmin/templates/bussines/addbussines.html:468
+#: creatoradmin/templates/bussines/edit_bussines.html:468
+#: creatoradmin/templates/restourant/edit_restourant.html:468
+#: creatoradmin/templates/restourant/restourant.html:468
+#: creatoradmin/templates/restourant_detail/create_restourant.html:468
+#: creatoradmin/templates/restourant_detail/edit_restourant_detail.html:468
+msgid "Bussines"
+msgstr ""
+
+#: creatoradmin/templates/bussines/update_bussines.html:466
+msgid "Form Bussines"
+msgstr ""
+
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:458
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:458
+msgid "Form Bussines Detail"
+msgstr ""
+
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:466
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:466
+msgid "Add Bussines Detail"
+msgstr ""
+
+#: creatoradmin/templates/bussiness_detail/create_bussines_detail.html:468
+#: creatoradmin/templates/bussiness_detail/edit_bussines_detail.html:468
+msgid "Bussines Detail"
+msgstr ""
+
+#: creatoradmin/templates/bussiness_detail/update_bussines_detail.html:466
+#: creatoradmin/templates/restourant_detail/update_resdetail.html:466
+msgid "Form Restourant detail"
+msgstr ""
+
+#: creatoradmin/templates/category/add_category.html:508
+#: creatoradmin/templates/category/category_edit.html:487
+#: creatoradmin/templates/room/add_room.html:525
+#: creatoradmin/templates/room/room_edit.html:528
+msgid "Title - 2"
+msgstr ""
+
+#: creatoradmin/templates/category/category_edit.html:460
+#: creatoradmin/templates/category/category_edit.html:467
+msgid "Category Edit"
+msgstr ""
+
+#: creatoradmin/templates/category/category_update.html:485
+#: creatoradmin/templates/information/info_update.html:471
+msgid "Title"
+msgstr ""
+
+#: creatoradmin/templates/category/category_update.html:488
+#: creatoradmin/templates/information/info_update.html:499
+msgid "Description"
+msgstr ""
+
+#: creatoradmin/templates/category/category_update.html:491
+#: creatoradmin/templates/faq/faq_update.html:485
+#: creatoradmin/templates/room/room_update.html:497
+msgid "Edit"
+msgstr ""
+
+#: creatoradmin/templates/category/category_update.html:494
+#: creatoradmin/templates/comment/comment.html:381
+#: creatoradmin/templates/room/room_update.html:501
+msgid "Delate"
+msgstr ""
+
+#: creatoradmin/templates/comment/comment.html:263
+#: creatoradmin/templates/services/add_services.html:467
+#: creatoradmin/templates/services/services_edit.html:466
+msgid "Add Services"
+msgstr "Add Services"
+
+#: creatoradmin/templates/comment/comment.html:270
+msgid "Servislardan"
+msgstr "Services update"
+
+#: creatoradmin/templates/comment/comment.html:314
+#: creatoradmin/templates/comment/comment.html:358
+#: creatoradmin/templates/comment/comment.html:376
+msgid "Comment"
+msgstr ""
+
+#: creatoradmin/templates/comment/comment.html:350
+msgid "Comments"
+msgstr ""
+
+#: creatoradmin/templates/comment/comment.html:373
+msgid "name"
+msgstr ""
+
+#: creatoradmin/templates/comment/comment.html:379
+#: creatoradmin/templates/contact/contact_admin.html:473
+#: creatoradmin/templates/information/info_edit.html:514
+#: creatoradmin/templates/information/info_update.html:487
+#: creatoradmin/templates/order/orderlist.html:477
+#: creatoradmin/templates/registration/reg_orderlist.html:226
+msgid "Phone"
+msgstr ""
+
+#: creatoradmin/templates/contact/contact_admin.html:458
+#: creatoradmin/templates/contact/contact_admin.html:465
+#: creatoradmin/templates/registration/contact_registration.html:207
+#: creatoradmin/templates/registration/contact_registration.html:214
+msgid "List contact"
+msgstr ""
+
+#: creatoradmin/templates/contact/contact_admin.html:472
+#: creatoradmin/templates/order/orderlist.html:474
+#: creatoradmin/templates/registration/reg_orderlist.html:223
+msgid "Name"
+msgstr ""
+
+#: creatoradmin/templates/contact/contact_admin.html:474
+#: creatoradmin/templates/information/info_edit.html:519
+#: creatoradmin/templates/information/info_update.html:491
+#: creatoradmin/templates/order/orderlist.html:479
+#: creatoradmin/templates/registration/reg_orderlist.html:228
+msgid "Email"
+msgstr ""
+
+#: creatoradmin/templates/contact/contact_admin.html:475
+msgid "Subject"
+msgstr ""
+
+#: creatoradmin/templates/contact/contact_admin.html:476
+msgid "PRROOO"
+msgstr "Messages"
+
+#: creatoradmin/templates/contact/contact_status.html:461
+#: creatoradmin/templates/contact/contact_status.html:465
+#: creatoradmin/templates/contact/contact_status.html:466
+#: creatoradmin/templates/registration/contact_status_reg.html:209
+#: creatoradmin/templates/registration/contact_status_reg.html:213
+#: creatoradmin/templates/registration/contact_status_reg.html:214
+msgid "Form contact"
+msgstr ""
+
+#: creatoradmin/templates/contact/contact_status.html:476
+#: creatoradmin/templates/registration/contact_status_reg.html:224
+msgid "contact"
+msgstr ""
+
+#: creatoradmin/templates/faq/faq_edit.html:460
+msgid "Form Faq"
+msgstr ""
+
+#: creatoradmin/templates/faq/faq_edit.html:468
+msgid "Form edit"
+msgstr ""
+
+#: creatoradmin/templates/faq/faq_edit.html:475
+#: creatoradmin/templates/faq/faqs.html:475
+msgid "Code"
+msgstr ""
+
+#: creatoradmin/templates/faq/faq_edit.html:479
+#: creatoradmin/templates/faq/faqs.html:479
+msgid "Savollar UZ"
+msgstr "Questions UZ"
+
+#: creatoradmin/templates/faq/faq_edit.html:484
+#: creatoradmin/templates/faq/faqs.html:484
+msgid "Savollar EN"
+msgstr "Questions EN"
+
+#: creatoradmin/templates/faq/faq_edit.html:488
+#: creatoradmin/templates/faq/faqs.html:489
+msgid "Savollar RU"
+msgstr "Questions RU"
+
+#: creatoradmin/templates/faq/faq_edit.html:492
+#: creatoradmin/templates/faq/faqs.html:496
+msgid "Answer UZ"
+msgstr ""
+
+#: creatoradmin/templates/faq/faq_edit.html:496
+#: creatoradmin/templates/faq/faqs.html:501
+msgid "Answer EN"
+msgstr ""
+
+#: creatoradmin/templates/faq/faq_edit.html:500
+#: creatoradmin/templates/faq/faqs.html:506
+msgid "Answer RU"
+msgstr ""
+
+#: creatoradmin/templates/faq/faqs.html:460
+#: creatoradmin/templates/faq/faqs.html:468
+msgid "Add FAQ form"
+msgstr ""
+
+#: creatoradmin/templates/information/addinfo.html:459
+msgid "Add Info"
+msgstr ""
+
+#: creatoradmin/templates/information/info_edit.html:459
+#: creatoradmin/templates/information/info_edit.html:466
+msgid "Edit Info"
+msgstr ""
+
+#: creatoradmin/templates/information/info_edit.html:488
+#: creatoradmin/templates/information/info_update.html:475
+msgid "Country"
+msgstr ""
+
+#: creatoradmin/templates/information/info_edit.html:493
+#: creatoradmin/templates/information/info_update.html:479
+msgid "City"
+msgstr ""
+
+#: creatoradmin/templates/information/info_edit.html:499
+msgid "Address UZ"
+msgstr ""
+
+#: creatoradmin/templates/information/info_edit.html:504
+msgid "Address EN"
+msgstr ""
+
+#: creatoradmin/templates/information/info_edit.html:509
+msgid "Address RU"
+msgstr ""
+
+#: creatoradmin/templates/information/info_edit.html:535
+#: creatoradmin/templates/information/info_update.html:495
+msgid "Telegram"
+msgstr ""
+
+#: creatoradmin/templates/information/info_update.html:459
+#: creatoradmin/templates/information/info_update.html:466
+msgid "Update info"
+msgstr ""
+
+#: creatoradmin/templates/information/info_update.html:483
+msgid "Adress"
+msgstr ""
+
+#: creatoradmin/templates/order/admin_note.html:461
+#: creatoradmin/templates/order/admin_note.html:465
+#: creatoradmin/templates/order/admin_note.html:466
+#: creatoradmin/templates/registration/admin_note_reg.html:210
+#: creatoradmin/templates/registration/admin_note_reg.html:214
+#: creatoradmin/templates/registration/admin_note_reg.html:215
+msgid "Form room"
+msgstr ""
+
+#: creatoradmin/templates/order/orderlist.html:458
+#: creatoradmin/templates/order/orderlist.html:465
+#: creatoradmin/templates/registration/reg_orderlist.html:207
+#: creatoradmin/templates/registration/reg_orderlist.html:214
+msgid "List Order"
+msgstr ""
+
+#: creatoradmin/templates/order/orderlist.html:475
+#: creatoradmin/templates/registration/reg_orderlist.html:224
+msgid "Surname"
+msgstr ""
+
+#: creatoradmin/templates/order/orderlist.html:476
+#: creatoradmin/templates/registration/reg_orderlist.html:225
+msgid "Citizenship"
+msgstr ""
+
+#: creatoradmin/templates/order/orderlist.html:478
+#: creatoradmin/templates/registration/reg_orderlist.html:227
+msgid "Payment"
+msgstr ""
+
+#: creatoradmin/templates/order/orderlist.html:481
+#: creatoradmin/templates/registration/reg_orderlist.html:230
+msgid "Arrival"
+msgstr ""
+
+#: creatoradmin/templates/order/orderlist.html:482
+#: creatoradmin/templates/registration/reg_orderlist.html:231
+msgid "Departure"
+msgstr ""
+
+#: creatoradmin/templates/order/orderlist.html:485
+#: creatoradmin/templates/registration/reg_orderlist.html:234
+msgid "Traffics"
+msgstr ""
+
+#: creatoradmin/templates/order/orderlist.html:486
+#: creatoradmin/templates/registration/reg_orderlist.html:235
+msgid "ip address"
+msgstr ""
+
+#: creatoradmin/templates/order/orderlist.html:487
+#: creatoradmin/templates/registration/reg_orderlist.html:236
+msgid "Is it accepted"
+msgstr ""
+
+#: creatoradmin/templates/profile/profile_update.html:59
+#: creatoradmin/templates/profile/registration_update.html:64
+#: creatoradmin/templates/profile/user_password.html:60
+#: creatoradmin/templates/profile/user_update.html:56
+msgid "Changes"
+msgstr ""
+
+#: creatoradmin/templates/registration/admin_note_reg.html:191
+#: creatoradmin/templates/registration/contact_registration.html:188
+#: creatoradmin/templates/registration/contact_status_reg.html:192
+#: creatoradmin/templates/registration/reg_orderlist.html:188
+#: creatoradmin/templates/registration/registration.html:190
+msgid "Order List"
+msgstr ""
+
+#: creatoradmin/templates/restourant/update_restourant.html:466
+msgid "Form Restourant"
+msgstr ""
+
+#: creatoradmin/templates/room/add_room.html:489
+#: creatoradmin/templates/room/room_edit.html:493
+msgid "Single room price UZ"
+msgstr ""
+
+#: creatoradmin/templates/room/add_room.html:494
+#: creatoradmin/templates/room/room_edit.html:498
+msgid "Single room price EN"
+msgstr ""
+
+#: creatoradmin/templates/room/add_room.html:499
+#: creatoradmin/templates/room/room_edit.html:503
+msgid "Single room price RU"
+msgstr ""
+
+#: creatoradmin/templates/room/add_room.html:508
+#: creatoradmin/templates/room/room_edit.html:512
+msgid "Double room price UZ"
+msgstr ""
+
+#: creatoradmin/templates/room/add_room.html:513
+#: creatoradmin/templates/room/room_edit.html:517
+msgid "Double room price EN"
+msgstr ""
+
+#: creatoradmin/templates/room/add_room.html:518
+#: creatoradmin/templates/room/room_edit.html:522
+msgid "Double room price RU"
+msgstr ""
+
+#: creatoradmin/templates/room/room_edit.html:460
+#: creatoradmin/templates/room/room_edit.html:468
+msgid "Edit Room"
+msgstr ""
+
+#: creatoradmin/templates/roomslider/RoomSlider.html:458
+#: creatoradmin/templates/roomslider/RoomSlider.html:466
+#: creatoradmin/templates/roomslider/RoomSlider.html:468
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:458
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:466
+#: creatoradmin/templates/roomslider/edit_roomssliders.html:468
+msgid "Add room Slider"
+msgstr ""
+
+#: creatoradmin/templates/roomslider/rooms_lider.html:466
+msgid "Form upgrade rooms slider"
+msgstr ""
+
+#: creatoradmin/templates/roomslider/rooms_lider.html:476
+msgid "Name room"
+msgstr ""
+
+#: creatoradmin/templates/services/add_services.html:459
+#: creatoradmin/templates/services/services_edit.html:458
+msgid "Form Services"
+msgstr ""
+
+#: creatoradmin/templates/services/add_services.html:469
+#: creatoradmin/templates/services/services_edit.html:468
+msgid "Services"
+msgstr ""
+
+#: creatoradmin/templates/services/services_update.html:466
+#: creatoradmin/templates/slider/edit_slider.html:458
+#: creatoradmin/templates/special/addspecial.html:458
+#: creatoradmin/templates/special/edit_special.html:458
+#: creatoradmin/templates/special/update_special.html:466
+msgid "Form Special"
+msgstr ""
+
+#: creatoradmin/templates/slider/addSlider.html:458
+#: creatoradmin/templates/slider/update_slider.html:466
+msgid "Form Slider"
+msgstr ""
+
+#: creatoradmin/templates/slider/addSlider.html:466
+#, fuzzy
+#| msgid "Add Services"
+msgid "Add Slider"
+msgstr "Add Services"
+
+#: creatoradmin/templates/slider/addSlider.html:468
+msgid "Slider"
+msgstr ""
+
+#: creatoradmin/templates/slider/edit_slider.html:466
+#: creatoradmin/templates/special/addspecial.html:466
+#: creatoradmin/templates/special/edit_special.html:466
+#, fuzzy
+#| msgid "Add Services"
+msgid "Add Special"
+msgstr "Add Services"
+
+#: creatoradmin/templates/slider/edit_slider.html:468
+#: creatoradmin/templates/special/addspecial.html:468
+#: creatoradmin/templates/special/edit_special.html:468
+msgid "Special"
+msgstr ""
+
+#: creatoradmin/templates/spa/addspa.html:458
+#: creatoradmin/templates/spa/edit_spa.html:458
+#: creatoradmin/templates/spa/update_spa.html:466
+msgid "Form Spa"
+msgstr ""
+
+#: creatoradmin/templates/spa/addspa.html:466
+#: creatoradmin/templates/spa/edit_spa.html:466
+msgid "Add Spa"
+msgstr ""
+
+#: creatoradmin/templates/spa/addspa.html:468
+#: creatoradmin/templates/spa/edit_spa.html:468
+msgid "Spa"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Services yangilash"
+#~ msgid "Update Slider"
+#~ msgstr "Services update"
+
+#, fuzzy
+#~| msgid "Services yangilash"
+#~ msgid "Create Services detail"
+#~ msgstr "Services update"
+
+#, fuzzy
+#~| msgid "Spa yaratish"
+#~ msgid "Xizmatlarni yaratish"
+#~ msgstr "Create spa slider"
+
+#, fuzzy
+#~| msgid "Biz haqimzda yangilash"
+#~ msgid "Xizmatlarni yangilash"
+#~ msgstr "Aboutus update"
+
+#, fuzzy
+#~| msgid "Biz haqimzda yangilash"
+#~ msgid "Bizness slayd yangilash"
+#~ msgstr "Aboutus update"
+
+#, fuzzy
+#~| msgid "nmadurlarrr"
+#~ msgid "nmadur444"
+#~ msgstr "Add Blog"
+
+#, fuzzy
+#~| msgid "nmadurlarrr"
+#~ msgid "nmadur111"
+#~ msgstr "Add Blog"
+
+#, fuzzy
+#~| msgid "nmadurlarrr"
+#~ msgid "nmadur222"
+#~ msgstr "Add Blog"
+
+#, fuzzy
+#~| msgid "nmadurlarrr"
+#~ msgid "nmadur333"
+#~ msgstr "Add Blog"
+
+#, fuzzy
+#~| msgid "nmadurlarrr"
+#~ msgid "nmadur555"
+#~ msgstr "Add Blog"
+
+#~ msgid "Add Breakfast"
+#~ msgstr "Add Breakfast"
+
+#~ msgid "Nonushta Yangilash"
+#~ msgstr "Breakfast update"
+
+#~ msgid "Add Lunch"
+#~ msgstr "Add Lunch"
+
+#~ msgid "kechki ovqat"
+#~ msgstr "Lunch update"
+
+#~ msgid "ovqat"
+#~ msgstr "Add Dinner"
+
+#~ msgid "taom"
+#~ msgstr "Dinner update"
+
+#~ msgid "Aer"
+#~ msgstr "Services update"
+
+#, fuzzy
+#~| msgid "Nonushta Yangilash"
+#~ msgid "Yangilash"
+#~ msgstr "Breakfast update"
